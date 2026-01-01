@@ -32,25 +32,12 @@ export function generateMarkdown(items: types.DayNews[]): string {
     byYear[item.year][item.month].push(item);
   }
   
-  // Build table of contents
+  // Build content
   let markdown = '# Space Invaders News\n\n';
   markdown += '_Data sourced from [invader-spotter.art](https://www.invader-spotter.art) - a community project tracking Space Invaders worldwide._\n\n';
-  markdown += '## Table of Contents\n\n';
   
   // Sort years in descending order (newest first)
   const yearsSorted = Object.keys(byYear).map(Number).sort((a, b) => b - a);
-  
-  for (const year of yearsSorted) {
-    markdown += `- [${year}](#${year})\n`;
-    // Sort months in descending order (December first)
-    const monthsSorted = Object.keys(byYear[year]).map(Number).sort((a, b) => b - a);
-    for (const month of monthsSorted) {
-      const monthName = getMonthName(month);
-      markdown += `  - [${monthName}](#${year}-${String(month).padStart(2, '0')})\n`;
-    }
-  }
-  
-  markdown += '\n---\n\n';
   
   // Build content - newest first (reverse chronological)
   for (const year of yearsSorted) {
@@ -126,7 +113,7 @@ export function generateHtml(markdown: string): string {
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <title>Space Invaders News</title>
-  <link rel="alternate" type="application/rss+xml" title="Space Invaders News" href="/feed.xml">
+  <link rel="alternate" type="application/rss+xml" title="Space Invaders News" href="./feed.xml">
   <style>
     * {
       margin: 0;
@@ -150,56 +137,6 @@ export function generateHtml(markdown: string): string {
       border-radius: 8px;
       box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
       overflow: hidden;
-    }
-    
-    .sidebar {
-      position: sticky;
-      top: 20px;
-      float: right;
-      width: 250px;
-      background: #f9f9f9;
-      padding: 20px;
-      border-left: 2px solid #ddd;
-      max-height: calc(100vh - 40px);
-      overflow-y: auto;
-      margin-left: 20px;
-    }
-    
-    .sidebar h2 {
-      font-size: 14px;
-      text-transform: uppercase;
-      color: #666;
-      margin-bottom: 15px;
-      letter-spacing: 1px;
-    }
-    
-    .sidebar ul {
-      list-style: none;
-    }
-    
-    .sidebar li {
-      margin: 5px 0;
-      font-size: 14px;
-    }
-    
-    .sidebar a {
-      color: #0066cc;
-      text-decoration: none;
-      transition: color 0.2s;
-    }
-    
-    .sidebar a:hover {
-      color: #0052a3;
-      text-decoration: underline;
-    }
-    
-    .sidebar li ul {
-      margin-left: 15px;
-      margin-top: 5px;
-    }
-    
-    .sidebar li ul li {
-      font-size: 13px;
     }
     
     .content {
@@ -300,16 +237,6 @@ export function generateHtml(markdown: string): string {
     }
     
     @media (max-width: 768px) {
-      .sidebar {
-        float: none;
-        width: 100%;
-        margin: 0;
-        margin-top: 30px;
-        border-left: none;
-        border-top: 2px solid #ddd;
-        padding-top: 30px;
-      }
-      
       .content {
         padding: 20px;
       }
@@ -327,48 +254,13 @@ export function generateHtml(markdown: string): string {
 <body>
   <div class="container">
     <div class="content">
-      <a href="/feed.xml" class="rss-link">📡 Subscribe to RSS Feed</a>
+      <a href="./feed.xml" class="rss-link">📡 Subscribe to RSS Feed</a>
       <p style="margin: 15px 0; padding: 10px; background: #f0f8ff; border-left: 3px solid #0066cc; font-style: italic; color: #555;">
         📍 Data sourced from <a href="https://www.invader-spotter.art" target="_blank" style="color: #0066cc;">invader-spotter.art</a> - a community project tracking Space Invaders worldwide.
       </p>
       ${htmlContent}
     </div>
-    <div class="sidebar">
-      <h2>Navigation</h2>
-      <ul id="toc"></ul>
-    </div>
   </div>
-  
-  <script>
-    // Generate table of contents in sidebar from headers
-    const toc = document.getElementById('toc');
-    const headings = document.querySelectorAll('.content h2, .content h3');
-    
-    let currentLevel = null;
-    let currentList = toc;
-    
-    headings.forEach(heading => {
-      if (heading.textContent.trim() === 'Table of Contents') return;
-      
-      const level = parseInt(heading.tagName[1]);
-      const li = document.createElement('li');
-      const a = document.createElement('a');
-      
-      a.href = '#' + heading.id;
-      a.textContent = heading.textContent;
-      li.appendChild(a);
-      
-      if (level === 2) {
-        currentList = toc;
-        currentList.appendChild(li);
-      } else if (level === 3 && currentList === toc) {
-        const ul = document.createElement('ul');
-        ul.appendChild(li);
-        currentList.lastChild.appendChild(ul);
-        currentList = ul;
-      }
-    });
-  </script>
 </body>
 </html>`;
   
