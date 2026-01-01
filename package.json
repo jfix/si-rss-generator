@@ -1,0 +1,21 @@
+{
+  "name": "si-rss-generator",
+  "version": "1.0.0",
+  "description": "Convert Space Invaders news to RSS and Markdown with GitHub Pages publishing",
+  "type": "module",
+  "scripts": {
+    "dev": "bun run --watch src/index.ts",
+    "generate": "bun run src/index.ts",
+    "test": "bun test"
+  },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "feed": "^4.2.2",
+    "marked": "^10.0.0",
+    "dotenv": "^16.3.1"
+  },
+  "devDependencies": {
+    "bun-types": "latest",
+    "@types/node": "^20.8.0"
+  }
+}
