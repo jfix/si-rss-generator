@@ -24,7 +24,7 @@ export function generateRss(items: DayNews[], siteUrl: string = 'https://jfix.gi
     favicon: 'https://www.invader-spotter.art/favicon.ico',
     copyright: 'Data from invader-spotter.art - SI RSS Generator',
     generator: 'SI RSS Generator',
-    ttl: 60, // 1 hour in minutes
+    ttl: 120, // 1 hour in minutes
     feedLinks: {
       rss2: `${siteUrl}/feed.xml`,
     },
