@@ -70,7 +70,7 @@ export function generateMarkdown(items: types.DayNews[]): string {
         for (const [type, ids] of Object.entries(eventsByType)) {
           const emoji = dayItem.events.find((e: any) => e.type === type)?.emoji || '⚪';
           const typeLabel = formatTypeLabel(type);
-          const linkedIds = ids.map(id => `[${id}](https://www.invader-spotter.art/?p=${id})`).join(', ');
+          const linkedIds = ids.map(id => `[${id}](https://www.instagram.com/explore/tags/${id})`).join(', ');
           eventsList.push(`${emoji} **${typeLabel}**: ${linkedIds}`);
         }
         
