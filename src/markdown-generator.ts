@@ -34,7 +34,6 @@ export function generateMarkdown(items: types.DayNews[]): string {
   
   // Build content
   let markdown = '# Space Invaders News\n\n';
-  markdown += '_Data sourced from [invader-spotter.art](https://www.invader-spotter.art) - a community project tracking Space Invaders worldwide._\n\n';
   
   // Sort years in descending order (newest first)
   const yearsSorted = Object.keys(byYear).map(Number).sort((a, b) => b - a);
@@ -81,6 +80,8 @@ export function generateMarkdown(items: types.DayNews[]): string {
       markdown += '\n';
     }
   }
+  
+  markdown += '\n---\n\n_Data sourced from [invader-spotter.art](https://www.invader-spotter.art) - a community project tracking Space Invaders worldwide._\n';
   
   console.log(`✓ Generated Markdown with ${items.length} day entries`);
   
@@ -254,11 +255,11 @@ export function generateHtml(markdown: string): string {
 <body>
   <div class="container">
     <div class="content">
+      ${htmlContent}
       <a href="./feed.xml" class="rss-link">📡 Subscribe to RSS Feed</a>
       <p style="margin: 15px 0; padding: 10px; background: #f0f8ff; border-left: 3px solid #0066cc; font-style: italic; color: #555;">
         📍 Data sourced from <a href="https://www.invader-spotter.art" target="_blank" style="color: #0066cc;">invader-spotter.art</a> - a community project tracking Space Invaders worldwide.
       </p>
-      ${htmlContent}
     </div>
   </div>
 </body>

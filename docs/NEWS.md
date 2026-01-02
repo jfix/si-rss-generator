@@ -1,7 +1,5 @@
 # Space Invaders News
 
-_Data sourced from [invader-spotter.art](https://www.invader-spotter.art) - a community project tracking Space Invaders worldwide._
-
 ## 2025
 
 ### December
@@ -1309,3 +1307,7 @@ _Data sourced from [invader-spotter.art](https://www.invader-spotter.art) - a co
 - **11 February 2019** — 🔴 **Destruction**: [PA_1382](https://www.instagram.com/explore/tags/PA_1382), [PA_1383](https://www.instagram.com/explore/tags/PA_1383), [PA_1384](https://www.instagram.com/explore/tags/PA_1384), [PA_704](https://www.instagram.com/explore/tags/PA_704), [AVI_31](https://www.instagram.com/explore/tags/AVI_31), [AVI_38](https://www.instagram.com/explore/tags/AVI_38), [LA_32](https://www.instagram.com/explore/tags/LA_32), [LA_116](https://www.instagram.com/explore/tags/LA_116), [LA_195](https://www.instagram.com/explore/tags/LA_195), [LA_206](https://www.instagram.com/explore/tags/LA_206)
 - **3 February 2019** — 🔴 **Destruction**: [PA_1034](https://www.instagram.com/explore/tags/PA_1034), [LA_45](https://www.instagram.com/explore/tags/LA_45), [LA_88](https://www.instagram.com/explore/tags/LA_88), [LA_90](https://www.instagram.com/explore/tags/LA_90), [LA_91](https://www.instagram.com/explore/tags/LA_91), [LA_97](https://www.instagram.com/explore/tags/LA_97), [LA_99](https://www.instagram.com/explore/tags/LA_99), [LA_107](https://www.instagram.com/explore/tags/LA_107), [LA_115](https://www.instagram.com/explore/tags/LA_115), [LA_137](https://www.instagram.com/explore/tags/LA_137), [PA_105](https://www.instagram.com/explore/tags/PA_105), [PA_271](https://www.instagram.com/explore/tags/PA_271), [PA_280](https://www.instagram.com/explore/tags/PA_280), [LA_57](https://www.instagram.com/explore/tags/LA_57), [LA_134](https://www.instagram.com/explore/tags/LA_134), [LA_140](https://www.instagram.com/explore/tags/LA_140), [LA_190](https://www.instagram.com/explore/tags/LA_190), [LA_201](https://www.instagram.com/explore/tags/LA_201)
 
+
+---
+
+_Data sourced from [invader-spotter.art](https://www.invader-spotter.art) - a community project tracking Space Invaders worldwide._

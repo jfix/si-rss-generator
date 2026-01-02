@@ -4,11 +4,11 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Thu, 01 Jan 2026 18:01:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Jan 2026 17:22:26 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
-        <ttl>60</ttl>
+        <ttl>120</ttl>
         <image>
             <title>Space Invaders News</title>
             <url>https://www.invader-spotter.art/favicon.ico</url>
