@@ -13,6 +13,7 @@
  */
 
 import { config } from 'dotenv';
+import { execSync } from 'child_process';
 import { scrapeNews, getCachedNews, cacheNews } from './scraper.js';
 import { parseNews, filterLastNDays } from './parser.js';
 import { hasChanged } from './change-detector.js';
@@ -66,7 +67,17 @@ async function main() {
     
     // Step 6: Generate HTML from Markdown
     console.log('\nStep 6: Generating HTML...');
-    const htmlContent = generateHtml(markdownContent);
+    const timestamp = new Date().toISOString();
+    
+    // Get current commit hash if available
+    let commitHash = 'local';
+    try {
+      commitHash = execSync('git rev-parse HEAD', { encoding: 'utf-8' }).trim();
+    } catch (e) {
+      // If git command fails, use the default
+    }
+    
+    const htmlContent = generateHtml(markdownContent, timestamp, commitHash);
     saveHtml(htmlContent);
     
     // Step 7: Cache the HTML

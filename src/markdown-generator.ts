@@ -103,7 +103,7 @@ export function saveMarkdown(content: string): void {
   }
 }
 
-export function generateHtml(markdown: string): string {
+export function generateHtml(markdown: string, timestamp: string = new Date().toISOString(), commitHash: string = 'local'): string {
   console.log('Generating HTML from Markdown...');
   
   const htmlContent = marked(markdown);
@@ -255,6 +255,9 @@ export function generateHtml(markdown: string): string {
 <body>
   <div class="container">
     <div class="content">
+      <p style="margin: 0 0 20px 0; padding: 8px 12px; background: #f5f5f5; border-left: 3px solid #999; font-size: 0.9em; color: #666;">
+        Last updated: ${new Date(timestamp).toLocaleString('en-US', { year: 'numeric', month: 'long', day: 'numeric', hour: '2-digit', minute: '2-digit', second: '2-digit', timeZoneName: 'short' })} ${commitHash !== 'local' ? `(${commitHash.slice(0, 7)})` : ''}
+      </p>
       ${htmlContent}
       <a href="./feed.xml" class="rss-link">📡 Subscribe to RSS Feed</a>
       <p style="margin: 15px 0; padding: 10px; background: #f0f8ff; border-left: 3px solid #0066cc; font-style: italic; color: #555;">

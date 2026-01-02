@@ -18,9 +18,9 @@ Normally, I want to have an English version, but I can imagine that this could c
 For a given day, there can be one or several events as described at the beginning.
 currently, the color of a Space Invader ID indicates the status (red: destruction, yellow: damage, green: new or reactivated, white: status change). Replace the colors with appropriate emojis.
 
-I want you to create for each day, and entry in the RSS file.
+I want you to create for each day, an entry in the RSS file.
 
 The Markdown file and the RSS file should be available via a github.io page. The Markdown file should be rendered as an HTML file.
 
-The refresh frequency of the RSS file should be 1 hour.
+The refresh frequency of the RSS file should be 2 hours.
 
