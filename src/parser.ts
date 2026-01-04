@@ -52,8 +52,11 @@ export function parseNews(html: string): ParsedNews {
     
     // Parse all <p> elements in this month (each is a day's entry)
     $(monthDiv).find('p').each((_: any, element: any) => {
-      const text = $(element).text().trim();
+      let text = $(element).text().trim();
       if (!text) return;
+      
+      // Normalize whitespace (HTML may have newlines and indentation)
+      text = text.replace(/\n/g, ' ').replace(/\s+/g, ' ').trim();
       
       // Extract day from start of text (format: "DD: content" or "D: content")
       const dayMatch = text.match(/^(\d{1,2})\s*:\s*(.+)$/);

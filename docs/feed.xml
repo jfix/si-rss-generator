@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 04 Jan 2026 02:11:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Jan 2026 19:13:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -16,291 +16,333 @@
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
         <item>
+            <title><![CDATA[Saturday, January 3, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-01-03</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-01-03</guid>
+            <pubDate>Fri, 02 Jan 2026 23:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BAB_54, BRN_05, BRN_11, BRN_15, BRN_16, BRN_04</li></ul><p><strong>Original:</strong> <em>Dégradation de BAB_54, BRN_05, BRN_11, BRN_15 et BRN_16. Destruction de BRN_04</em></p>]]></description>
+        </item>
+        <item>
             <title><![CDATA[Tuesday, December 30, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-30</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-30</guid>
-            <pubDate>Tue, 30 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 29 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_399</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_399</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, December 29, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-29</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-29</guid>
-            <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 28 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BRN_07</li></ul><p><strong>Original:</strong> <em>Destruction de BRN_07</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, December 28, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-28</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-28</guid>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 27 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_729, BRN_13</li></ul><p><strong>Original:</strong> <em>Alerte à propos de PA_729. Dégradation de BRN_13</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, December 25, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-25</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-25</guid>
-            <pubDate>Thu, 25 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 24 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_1223</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_1223</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, December 24, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-24</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-24</guid>
-            <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 23 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1517, PA_167</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_1517. Destruction de PA_167</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, December 21, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-21</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-21</guid>
-            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 20 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: WN_01, WN_19, WN_52, GRU_01</li></ul><p><strong>Original:</strong> <em>Réactivation de WN_01, WN_19 et WN_52. Dégradation de GRU_01</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Saturday, December 20, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-20</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-20</guid>
-            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 19 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: WN_07</li></ul><p><strong>Original:</strong> <em>Réactivation de WN_07</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, December 19, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-19</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-19</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 18 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: PA_45, PA_381</li></ul><p><strong>Original:</strong> <em>Réactivation de PA_45 et PA_381</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, December 15, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-15</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-15</guid>
-            <pubDate>Mon, 15 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 14 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LDN_169</li></ul><p><strong>Original:</strong> <em>Ajout du dernier SI inconnu de la nouvelle vague d&#039;invasion à Londres : LDN_169</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, December 10, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-10</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-10</guid>
-            <pubDate>Wed, 10 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 09 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: DJBA_25, KAT_18, KAT_19</li></ul><p><strong>Original:</strong> <em>Destruction de DJBA_25, KAT_18 et KAT_19</em></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Tuesday, December 9, 2025]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2025-12-09</link>
+            <guid>https://jfix.github.io/si-rss-generator#2025-12-09</guid>
+            <pubDate>Mon, 08 Dec 2025 23:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_18, BGK_50, KAT_02, KAT_21, KAT_28</li></ul><p><strong>Original:</strong> <em>Dégradation de BGK_18. Destruction de BGK_50, KAT_02, KAT_21 et KAT_28</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, December 7, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-07</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-07</guid>
-            <pubDate>Sun, 07 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 06 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: NA_03</li></ul><p><strong>Original:</strong> <em>Destruction de NA_03</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, December 4, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-04</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-04</guid>
-            <pubDate>Thu, 04 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 03 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_478</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_478</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, December 3, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-12-03</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-12-03</guid>
-            <pubDate>Wed, 03 Dec 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 02 Dec 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_387</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_387</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, November 30, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-30</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-30</guid>
-            <pubDate>Sun, 30 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 29 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_08, PA_558, PA_1293, FAO_03</li></ul><p><strong>Original:</strong> <em>Réactivation de PA_08, PA_558 et PA_1293. Destruction de FAO_03</em></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Saturday, November 29, 2025]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2025-11-29</link>
+            <guid>https://jfix.github.io/si-rss-generator#2025-11-29</guid>
+            <pubDate>Fri, 28 Nov 2025 23:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_42, BGK_43, BGK_47, MARS_19</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_42, BGK_43, BGK_47 et MARS_19</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, November 27, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-27</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-27</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 26 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_30</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_30</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Tuesday, November 25, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-25</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-25</guid>
-            <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 24 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_32</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_32</em></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Saturday, November 22, 2025]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2025-11-22</link>
+            <guid>https://jfix.github.io/si-rss-generator#2025-11-22</guid>
+            <pubDate>Fri, 21 Nov 2025 23:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: MARS_39, MARS_04, MARS_06, MARS_68, MARS_71</li></ul><p><strong>Original:</strong> <em>Dégradation de MARS_39. Destruction de MARS_04, MARS_06, MARS_68 et MARS_71</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, November 19, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-19</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-19</guid>
-            <pubDate>Wed, 19 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 18 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BSL_19</li></ul><p><strong>Original:</strong> <em>Destruction de BSL_19</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Tuesday, November 18, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-18</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-18</guid>
-            <pubDate>Tue, 18 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 17 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_89</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_89</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, November 16, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-16</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-16</guid>
-            <pubDate>Sun, 16 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 15 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: AMS_09, BGK_24</li></ul><p><strong>Original:</strong> <em>Destruction de AMS_09 et BGK_24</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Saturday, November 15, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-15</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-15</guid>
-            <pubDate>Sat, 15 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 14 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: VRS_10, VRS_34</li></ul><p><strong>Original:</strong> <em>Restauration de VRS_10 et VRS_34</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, November 14, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-14</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-14</guid>
-            <pubDate>Fri, 14 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 13 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_89, PA_213, PA_919</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_89. Dégradation de PA_213. Destruction de PA_919</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, November 13, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-13</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-13</guid>
-            <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 12 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1553, SP_10</li></ul><p><strong>Original:</strong> <em>Ajout du dernier SI parisien: PA_1553. Destruction de SP_10</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, November 10, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-10</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-10</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 09 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_49, BAB_06, BSL_19, NA_03, BGK_48</li></ul><p><strong>Original:</strong> <em>Réactivation de BGK_49. Dégradation de BAB_06, BSL_19 et NA_03. Destruction de BGK_48</em></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Sunday, November 9, 2025]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2025-11-09</link>
+            <guid>https://jfix.github.io/si-rss-generator#2025-11-09</guid>
+            <pubDate>Sat, 08 Nov 2025 23:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: BGK_05, BGK_13, BGK_19, BGK_29, BGK_30, BGK_44, BGK_48</li></ul><p><strong>Original:</strong> <em>Réactivation de BGK_05, BGK_13, BGK_19, BGK_29, BGK_30, BGK_44 et BGK_48</em></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Saturday, November 8, 2025]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2025-11-08</link>
+            <guid>https://jfix.github.io/si-rss-generator#2025-11-08</guid>
+            <pubDate>Fri, 07 Nov 2025 23:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: BGK_24, BGK_27, BGK_32, BGK_35, BGK_42, BGK_11</li></ul><p><strong>Original:</strong> <em>Réactivation de BGK_24, BGK_27, BGK_32, BGK_35 et BGK_42 Restauration de BGK_11</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, November 7, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-07</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-07</guid>
-            <pubDate>Fri, 07 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 06 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_185</li></ul><p><strong>Original:</strong> <em>Destruction de PA_185</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, November 6, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-06</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-06</guid>
-            <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 05 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: TLS_06</li></ul><p><strong>Original:</strong> <em>Destruction de TLS_06</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, November 5, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-05</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-05</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 04 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LDN_59</li></ul><p><strong>Original:</strong> <em>Destruction de LDN_59</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Tuesday, November 4, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-11-04</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-11-04</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
+            <pubDate>Mon, 03 Nov 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: HK_95</li></ul><p><strong>Original:</strong> <em>Réactivation de HK_95</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, October 31, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-31</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-31</guid>
-            <pubDate>Fri, 31 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 30 Oct 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LBR_05</li></ul><p><strong>Original:</strong> <em>Dégradation de LBR_05</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, October 27, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-27</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-27</guid>
-            <pubDate>Mon, 27 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 26 Oct 2025 23:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_338</li></ul><p><strong>Original:</strong> <em>Destruction de PA_338</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, October 26, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-26</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-26</guid>
-            <pubDate>Sun, 26 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 25 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: FTBL_20</li></ul><p><strong>Original:</strong> <em>Dégradation de FTBL_20</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, October 22, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-22</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-22</guid>
-            <pubDate>Wed, 22 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 21 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: BAB_54, SP_10, AVI_39</li></ul><p><strong>Original:</strong> <em>Dégradation de BAB_54, SP_10 et AVI_39</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, October 19, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-19</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-19</guid>
-            <pubDate>Sun, 19 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 18 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_300, PA_302, PA_1094</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_300. Destruction de PA_302 et PA_1094</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Saturday, October 18, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-18</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-18</guid>
-            <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Fri, 17 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LDN_59</li></ul><p><strong>Original:</strong> <em>Dégradation de LDN_59</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, October 17, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-17</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-17</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 16 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_675, SP_40</li></ul><p><strong>Original:</strong> <em>Destruction de PA_675 et SP_40</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, October 16, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-16</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-16</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 15 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: NY_101</li></ul><p><strong>Original:</strong> <em>Destruction de NY_101</em></p>]]></description>
+        </item>
+        <item>
+            <title><![CDATA[Monday, October 13, 2025]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2025-10-13</link>
+            <guid>https://jfix.github.io/si-rss-generator#2025-10-13</guid>
+            <pubDate>Sun, 12 Oct 2025 22:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: FAO_02, FAO_03, FAO_04, LDN_92, LDN_31</li></ul><p><strong>Original:</strong> <em>Réactivation de FAO_02, FAO_03, FAO_04 et LDN_92. Destruction de LDN_31</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, October 10, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-10</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-10</guid>
-            <pubDate>Fri, 10 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Thu, 09 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: HK_56</li></ul><p><strong>Original:</strong> <em>Destruction de HK_56</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Thursday, October 9, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-09</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-09</guid>
-            <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Wed, 08 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LDN_164</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI de la nouvelle vague d&#039;invasion à Londres : LDN_164.</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, October 8, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-08</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-08</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Tue, 07 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LDN_165</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI de la nouvelle vague d&#039;invasion à Londres : LDN_165</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, October 6, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-06</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-06</guid>
-            <pubDate>Mon, 06 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sun, 05 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LDN_163, LDN_166</li></ul><p><strong>Original:</strong> <em>Ajout de deux SI de la nouvelle vague d&#039;invasion à Londres: : LDN_163 et LDN_166.</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, October 5, 2025]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2025-10-05</link>
             <guid>https://jfix.github.io/si-rss-generator#2025-10-05</guid>
-            <pubDate>Sun, 05 Oct 2025 00:00:00 GMT</pubDate>
+            <pubDate>Sat, 04 Oct 2025 22:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: LDN_59, PA_542</li></ul><p><strong>Original:</strong> <em>Réactivation de LDN_59 et PA_542</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, October 4, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-10-04</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-10-04</guid>
-            <pubDate>Sat, 04 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_116</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_116</em></p>]]></description>
         </item>
     </channel>
 </rss>
