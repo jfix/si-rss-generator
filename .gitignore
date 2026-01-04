@@ -5,4 +5,3 @@ bun.lockb
 .env.local
 *.log
 .DS_Store
-docs/
