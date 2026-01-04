@@ -12,7 +12,15 @@ export async function scrapeNews(): Promise<string> {
   console.log('Fetching Space Invaders news page...');
   
   try {
-    const response = await fetch('https://www.invader-spotter.art/news.php');
+    const response = await fetch('https://www.invader-spotter.art/news.php', {
+      // Bypass HTTP caching to always get fresh content
+      cache: 'no-store',
+      headers: {
+        'Cache-Control': 'no-cache, no-store, must-revalidate',
+        'Pragma': 'no-cache',
+        'Expires': '0'
+      }
+    });
     
     if (!response.ok) {
       throw new Error(`Failed to fetch: ${response.statusText}`);
