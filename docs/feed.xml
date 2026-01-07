@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Tue, 06 Jan 2026 22:26:12 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Jan 2026 14:28:36 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Wednesday, January 7, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-01-07</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-01-07</guid>
+            <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: HK_107</li></ul><p><strong>Original:</strong> <em>Dégradation de HK_107</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Tuesday, January 6, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-01-06</link>
@@ -336,13 +343,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-10-09</guid>
             <pubDate>Thu, 09 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LDN_164</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI de la nouvelle vague d&#039;invasion à Londres : LDN_164.</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, October 8, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-10-08</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-10-08</guid>
-            <pubDate>Wed, 08 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LDN_165</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI de la nouvelle vague d&#039;invasion à Londres : LDN_165</em></p>]]></description>
         </item>
     </channel>
 </rss>
