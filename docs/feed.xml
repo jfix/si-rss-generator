@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Fri, 09 Jan 2026 22:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Jan 2026 16:32:53 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Monday, January 12, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-01-12</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-01-12</guid>
+            <pubDate>Mon, 12 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_834</li></ul><p><strong>Original:</strong> <em>Destruction de PA_834</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Friday, January 9, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-01-09</link>
@@ -329,13 +336,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-10-16</guid>
             <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: NY_101</li></ul><p><strong>Original:</strong> <em>Destruction de NY_101</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monday, October 13, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-10-13</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-10-13</guid>
-            <pubDate>Mon, 13 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: FAO_02, FAO_03, FAO_04, LDN_92, LDN_31</li></ul><p><strong>Original:</strong> <em>Réactivation de FAO_02, FAO_03, FAO_04 et LDN_92. Destruction de LDN_31</em></p>]]></description>
         </item>
     </channel>
 </rss>
