@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Mon, 12 Jan 2026 16:32:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Jan 2026 12:54:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Friday, January 16, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-01-16</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-01-16</guid>
+            <pubDate>Fri, 16 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1435</li></ul><p><strong>Original:</strong> <em>Destruction de PA_1435</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Monday, January 12, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-01-12</link>
@@ -322,20 +329,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-10-18</guid>
             <pubDate>Sat, 18 Oct 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LDN_59</li></ul><p><strong>Original:</strong> <em>Dégradation de LDN_59</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Friday, October 17, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-10-17</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-10-17</guid>
-            <pubDate>Fri, 17 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_675, SP_40</li></ul><p><strong>Original:</strong> <em>Destruction de PA_675 et SP_40</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thursday, October 16, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-10-16</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-10-16</guid>
-            <pubDate>Thu, 16 Oct 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: NY_101</li></ul><p><strong>Original:</strong> <em>Destruction de NY_101</em></p>]]></description>
         </item>
     </channel>
 </rss>
