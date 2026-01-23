@@ -4,6 +4,7 @@
 
 ### January
 
+- **22 January 2026** — 🟢 **New**: [PA_1554](https://www.instagram.com/explore/tags/PA_1554), [PA_1555](https://www.instagram.com/explore/tags/PA_1555)
 - **21 January 2026** — 🔴 **Destruction**: [NY_156](https://www.instagram.com/explore/tags/NY_156)
 - **19 January 2026** — 🟡 **Damage**: [WN_19](https://www.instagram.com/explore/tags/WN_19)
 - **16 January 2026** — 🔴 **Destruction**: [MAN_17](https://www.instagram.com/explore/tags/MAN_17), [PA_1435](https://www.instagram.com/explore/tags/PA_1435)

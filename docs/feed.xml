@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 21 Jan 2026 10:34:30 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Jan 2026 02:03:03 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Thursday, January 22, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-01-22</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-01-22</guid>
+            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: PA_1554, PA_1555</li></ul><p><strong>Original:</strong> <em>Ajout des deux derniers SI parisiens: PA_1554 et PA_1555</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Wednesday, January 21, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-01-21</link>
