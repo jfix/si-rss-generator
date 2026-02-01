@@ -2,6 +2,10 @@
 
 ## 2026
 
+### February
+
+- **1 February 2026** — 🔴 **Destruction**: [WN_01](https://www.instagram.com/explore/tags/WN_01)
+
 ### January
 
 - **30 January 2026** — 🟡 **Damage**: [PA_800](https://www.instagram.com/explore/tags/PA_800)
