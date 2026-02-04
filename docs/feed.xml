@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 01 Feb 2026 22:29:54 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Feb 2026 14:43:24 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Wednesday, February 4, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-02-04</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-02-04</guid>
+            <pubDate>Wed, 04 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_40</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_40</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Sunday, February 1, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-02-01</link>
@@ -308,20 +315,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-11-06</guid>
             <pubDate>Thu, 06 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: TLS_06</li></ul><p><strong>Original:</strong> <em>Destruction de TLS_06</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, November 5, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-11-05</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-11-05</guid>
-            <pubDate>Wed, 05 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LDN_59</li></ul><p><strong>Original:</strong> <em>Destruction de LDN_59</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday, November 4, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-11-04</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-11-04</guid>
-            <pubDate>Tue, 04 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: HK_95</li></ul><p><strong>Original:</strong> <em>Réactivation de HK_95</em></p>]]></description>
         </item>
     </channel>
 </rss>
