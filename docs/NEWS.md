@@ -4,6 +4,7 @@
 
 ### February
 
+- **7 February 2026** — ⚪ **Unknown**: [PA_1431](https://www.instagram.com/explore/tags/PA_1431)
 - **5 February 2026** — 🟡 **Damage**: [PA_1099](https://www.instagram.com/explore/tags/PA_1099)
 - **4 February 2026** — 🔴 **Destruction**: [BGK_40](https://www.instagram.com/explore/tags/BGK_40)
 - **1 February 2026** — 🔴 **Destruction**: [WN_01](https://www.instagram.com/explore/tags/WN_01)
