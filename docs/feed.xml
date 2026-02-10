@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sat, 07 Feb 2026 02:26:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 10 Feb 2026 02:46:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Tuesday, February 10, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-02-10</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-02-10</guid>
+            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_1391</li></ul><p><strong>Original:</strong> <em>Alerte à propos de PA_1391</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Saturday, February 7, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-02-07</link>
@@ -294,20 +301,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-11-13</guid>
             <pubDate>Thu, 13 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1553, SP_10</li></ul><p><strong>Original:</strong> <em>Ajout du dernier SI parisien: PA_1553. Destruction de SP_10</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monday, November 10, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-11-10</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-11-10</guid>
-            <pubDate>Mon, 10 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_49, BAB_06, BSL_19, NA_03, BGK_48</li></ul><p><strong>Original:</strong> <em>Réactivation de BGK_49. Dégradation de BAB_06, BSL_19 et NA_03. Destruction de BGK_48</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, November 9, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-11-09</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-11-09</guid>
-            <pubDate>Sun, 09 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: BGK_05, BGK_13, BGK_19, BGK_29, BGK_30, BGK_44, BGK_48</li></ul><p><strong>Original:</strong> <em>Réactivation de BGK_05, BGK_13, BGK_19, BGK_29, BGK_30, BGK_44 et BGK_48</em></p>]]></description>
         </item>
     </channel>
 </rss>
