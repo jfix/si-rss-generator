@@ -4,6 +4,7 @@
 
 ### February
 
+- **20 February 2026** — 🟢 **New**: [PA_1556](https://www.instagram.com/explore/tags/PA_1556), [PA_1557](https://www.instagram.com/explore/tags/PA_1557), [PA_1558](https://www.instagram.com/explore/tags/PA_1558), [PA_1559](https://www.instagram.com/explore/tags/PA_1559)
 - **17 February 2026** — 🔴 **Destruction**: [SP_01](https://www.instagram.com/explore/tags/SP_01)
 - **16 February 2026** — 🔴 **Destruction**: [PA_958](https://www.instagram.com/explore/tags/PA_958)
 - **15 February 2026** — ⚪ **Unknown**: [PA_800](https://www.instagram.com/explore/tags/PA_800)
