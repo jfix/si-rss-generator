@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sat, 21 Feb 2026 02:24:29 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Feb 2026 10:31:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Saturday, February 21, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-02-21</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-02-21</guid>
+            <pubDate>Sat, 21 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LDN_84</li></ul><p><strong>Original:</strong> <em>Dégradation de LDN_84</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Friday, February 20, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-02-20</link>
@@ -287,13 +294,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-11-25</guid>
             <pubDate>Tue, 25 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_32</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_32</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, November 22, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-11-22</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-11-22</guid>
-            <pubDate>Sat, 22 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: MARS_39, MARS_04, MARS_06, MARS_68, MARS_71</li></ul><p><strong>Original:</strong> <em>Dégradation de MARS_39. Destruction de MARS_04, MARS_06, MARS_68 et MARS_71</em></p>]]></description>
         </item>
     </channel>
 </rss>
