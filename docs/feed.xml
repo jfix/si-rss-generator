@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 25 Feb 2026 02:34:04 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Feb 2026 18:57:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Thursday, February 26, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-02-26</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-02-26</guid>
+            <pubDate>Thu, 26 Feb 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1306</li></ul><p><strong>Original:</strong> <em>Destruction de PA_1306</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Wednesday, February 25, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-02-25</link>
@@ -294,13 +301,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-11-29</guid>
             <pubDate>Sat, 29 Nov 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_42, BGK_43, BGK_47, MARS_19</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_42, BGK_43, BGK_47 et MARS_19</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thursday, November 27, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-11-27</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-11-27</guid>
-            <pubDate>Thu, 27 Nov 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_30</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_30</em></p>]]></description>
         </item>
     </channel>
 </rss>

@@ -4,6 +4,7 @@
 
 ### February
 
+- **26 February 2026** — 🔴 **Destruction**: [PA_1306](https://www.instagram.com/explore/tags/PA_1306)
 - **25 February 2026** — 🟢 **Reactivated**: [CAZ_10](https://www.instagram.com/explore/tags/CAZ_10)
 - **23 February 2026** — 🔴 **Destruction**: [ROM_47](https://www.instagram.com/explore/tags/ROM_47)
 - **21 February 2026** — 🟡 **Damage**: [LDN_84](https://www.instagram.com/explore/tags/LDN_84)
