@@ -4,6 +4,7 @@
 
 ### March
 
+- **5 March 2026** — 🔴 **Destruction**: [CAZ_16](https://www.instagram.com/explore/tags/CAZ_16), [GRN_37](https://www.instagram.com/explore/tags/GRN_37)
 - **4 March 2026** — 🟡 **Damage**: [BAB_06](https://www.instagram.com/explore/tags/BAB_06)
 
 ### February
