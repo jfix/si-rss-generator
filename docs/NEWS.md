@@ -4,7 +4,7 @@
 
 ### March
 
-- **5 March 2026** — 🔴 **Destruction**: [CAZ_16](https://www.instagram.com/explore/tags/CAZ_16), [GRN_37](https://www.instagram.com/explore/tags/GRN_37), [LA_07](https://www.instagram.com/explore/tags/LA_07), [LA_63](https://www.instagram.com/explore/tags/LA_63), [LA_88](https://www.instagram.com/explore/tags/LA_88), [LA_90](https://www.instagram.com/explore/tags/LA_90)
+- **5 March 2026** — 🔴 **Destruction**: [CAZ_16](https://www.instagram.com/explore/tags/CAZ_16), [LA_134](https://www.instagram.com/explore/tags/LA_134), [GRN_37](https://www.instagram.com/explore/tags/GRN_37), [LA_07](https://www.instagram.com/explore/tags/LA_07), [LA_63](https://www.instagram.com/explore/tags/LA_63), [LA_88](https://www.instagram.com/explore/tags/LA_88), [LA_90](https://www.instagram.com/explore/tags/LA_90)
 - **4 March 2026** — 🟡 **Damage**: [BAB_06](https://www.instagram.com/explore/tags/BAB_06)
 
 ### February
