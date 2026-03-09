@@ -4,6 +4,7 @@
 
 ### March
 
+- **9 March 2026** — 🔴 **Destruction**: [SP_31](https://www.instagram.com/explore/tags/SP_31)
 - **8 March 2026** — 🔴 **Destruction**: [SP_12](https://www.instagram.com/explore/tags/SP_12), [LA_207](https://www.instagram.com/explore/tags/LA_207), [LA_100](https://www.instagram.com/explore/tags/LA_100), [LA_109](https://www.instagram.com/explore/tags/LA_109)
 - **7 March 2026** — 🔴 **Destruction**: [SP_14](https://www.instagram.com/explore/tags/SP_14), [SP_48](https://www.instagram.com/explore/tags/SP_48), [PA_1523](https://www.instagram.com/explore/tags/PA_1523), [PA_1391](https://www.instagram.com/explore/tags/PA_1391)
 - **6 March 2026** — 🟢 **Reactivated**: [SP_47](https://www.instagram.com/explore/tags/SP_47)
