@@ -4,6 +4,7 @@
 
 ### March
 
+- **22 March 2026** — 🔴 **Destruction**: [FTBL_19](https://www.instagram.com/explore/tags/FTBL_19), [FTBL_20](https://www.instagram.com/explore/tags/FTBL_20)
 - **19 March 2026** — 🟢 **New**: [PA_1560](https://www.instagram.com/explore/tags/PA_1560), [PA_1561](https://www.instagram.com/explore/tags/PA_1561)
 - **18 March 2026** — ⚪ **Unknown**: [LDN_178](https://www.instagram.com/explore/tags/LDN_178)
 - **15 March 2026** — 🔴 **Destruction**: [LA_204](https://www.instagram.com/explore/tags/LA_204), [CLR_05](https://www.instagram.com/explore/tags/CLR_05), [LA_36](https://www.instagram.com/explore/tags/LA_36)

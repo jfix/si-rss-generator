@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Fri, 20 Mar 2026 02:30:18 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2026 16:36:09 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, March 22, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-03-22</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-03-22</guid>
+            <pubDate>Sun, 22 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: FTBL_19, FTBL_20</li></ul><p><strong>Original:</strong> <em>Destruction de FTBL_19 et FTBL_20</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Thursday, March 19, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-03-19</link>
@@ -315,27 +322,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-12-24</guid>
             <pubDate>Wed, 24 Dec 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1517, PA_167</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_1517. Destruction de PA_167</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, December 21, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-12-21</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-12-21</guid>
-            <pubDate>Sun, 21 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: WN_01, WN_19, WN_52, GRU_01</li></ul><p><strong>Original:</strong> <em>Réactivation de WN_01, WN_19 et WN_52. Dégradation de GRU_01</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, December 20, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-12-20</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-12-20</guid>
-            <pubDate>Sat, 20 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: WN_07</li></ul><p><strong>Original:</strong> <em>Réactivation de WN_07</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Friday, December 19, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-12-19</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-12-19</guid>
-            <pubDate>Fri, 19 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: PA_45, PA_381</li></ul><p><strong>Original:</strong> <em>Réactivation de PA_45 et PA_381</em></p>]]></description>
         </item>
     </channel>
 </rss>
