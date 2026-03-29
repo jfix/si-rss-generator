@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Fri, 27 Mar 2026 20:43:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Mar 2026 13:04:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, March 29, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-03-29</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-03-29</guid>
+            <pubDate>Sun, 29 Mar 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_800, PA_1517</li></ul><p><strong>Original:</strong> <em>Restauration de PA_800 et PA_1517</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Friday, March 27, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-03-27</link>
@@ -322,13 +329,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2025-12-29</guid>
             <pubDate>Mon, 29 Dec 2025 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BRN_07</li></ul><p><strong>Original:</strong> <em>Destruction de BRN_07</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, December 28, 2025]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2025-12-28</link>
-            <guid>https://jfix.github.io/si-rss-generator#2025-12-28</guid>
-            <pubDate>Sun, 28 Dec 2025 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_729, BRN_13</li></ul><p><strong>Original:</strong> <em>Alerte à propos de PA_729. Dégradation de BRN_13</em></p>]]></description>
         </item>
     </channel>
 </rss>
