@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sat, 04 Apr 2026 16:40:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Apr 2026 11:00:38 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Tuesday, April 7, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-04-07</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-04-07</guid>
+            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: MLB_22</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de MLB_22</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Saturday, April 4, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-04-04</link>
@@ -308,20 +315,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-01-07</guid>
             <pubDate>Wed, 07 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: HK_107</li></ul><p><strong>Original:</strong> <em>Dégradation de HK_107</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday, January 6, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-01-06</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-01-06</guid>
-            <pubDate>Tue, 06 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: NY_148</li></ul><p><strong>Original:</strong> <em>Destruction de NY_148</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monday, January 5, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-01-05</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-01-05</guid>
-            <pubDate>Mon, 05 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_1431</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_1431</em></p>]]></description>
         </item>
     </channel>
 </rss>
