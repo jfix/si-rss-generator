@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 22 Apr 2026 21:00:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Apr 2026 13:45:13 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Friday, April 24, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-04-24</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-04-24</guid>
+            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: AIX_07</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de AIX_07</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Wednesday, April 22, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-04-22</link>
@@ -336,13 +343,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-01-30</guid>
             <pubDate>Fri, 30 Jan 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_800</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_800</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thursday, January 22, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-01-22</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-01-22</guid>
-            <pubDate>Thu, 22 Jan 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: PA_1554, PA_1555</li></ul><p><strong>Original:</strong> <em>Ajout des deux derniers SI parisiens: PA_1554 et PA_1555</em></p>]]></description>
         </item>
     </channel>
 </rss>
