@@ -4,6 +4,7 @@
 
 ### April
 
+- **26 April 2026** — 🔴 **Destruction**: [FTBL_06](https://www.instagram.com/explore/tags/FTBL_06), [BAB_06](https://www.instagram.com/explore/tags/BAB_06)
 - **25 April 2026** — 🟢 **Reactivated**: [BRL_09](https://www.instagram.com/explore/tags/BRL_09)
 - **24 April 2026** — ⚪ **Unknown**: [GNV_08](https://www.instagram.com/explore/tags/GNV_08), [AIX_07](https://www.instagram.com/explore/tags/AIX_07), [LSN_16](https://www.instagram.com/explore/tags/LSN_16)
 - **22 April 2026** — 🟡 **Damage**: [VRS_09](https://www.instagram.com/explore/tags/VRS_09)
