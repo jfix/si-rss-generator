@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Tue, 28 Apr 2026 03:36:08 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Apr 2026 10:18:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -20,7 +20,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-04-28</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-04-28</guid>
             <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: GNV_04, GNV_11, GNV_12, GNV_24</li></ul><p><strong>Original:</strong> <em>Réactivation de GNV_04, GNV_11, GNV_12 et GNV_24</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: GNV_04, GNV_11, GNV_12, GNV_24, GNV_23</li></ul><p><strong>Original:</strong> <em>Réactivation de GNV_04, GNV_11, GNV_12 et GNV_24. Restauration de GNV_23</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, April 26, 2026]]></title>
