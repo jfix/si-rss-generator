@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Thu, 07 May 2026 10:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 May 2026 17:50:34 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -20,7 +20,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-05-07</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-05-07</guid>
             <pubDate>Thu, 07 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LDN_129</li></ul><p><strong>Original:</strong> <em>Dégradation de LDN_129</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_1569, PA_1570, LDN_129</li></ul><p><strong>Original:</strong> <em>Ajout des deux derniers SI parisiens: PA_1569 et PA_1570. Dégradation de LDN_129</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, May 4, 2026]]></title>
