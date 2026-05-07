@@ -4,6 +4,7 @@
 
 ### May
 
+- **7 May 2026** — 🟡 **Damage**: [LDN_129](https://www.instagram.com/explore/tags/LDN_129)
 - **4 May 2026** — 🔴 **Destruction**: [LDN_178](https://www.instagram.com/explore/tags/LDN_178), [MLB_19](https://www.instagram.com/explore/tags/MLB_19)
 - **3 May 2026** — 🔴 **Destruction**: [PA_1223](https://www.instagram.com/explore/tags/PA_1223)
 
