@@ -4,7 +4,7 @@
 
 ### May
 
-- **10 May 2026** — 🟢 **Reactivated**: [LA_07](https://www.instagram.com/explore/tags/LA_07)
+- **10 May 2026** — 🔴 **Destruction**: [LA_07](https://www.instagram.com/explore/tags/LA_07), [SL_12](https://www.instagram.com/explore/tags/SL_12)
 - **9 May 2026** — 🟡 **Damage**: [PA_1275](https://www.instagram.com/explore/tags/PA_1275), [BGK_05](https://www.instagram.com/explore/tags/BGK_05)
 - **8 May 2026** — 🔴 **Destruction**: [FTBL_36](https://www.instagram.com/explore/tags/FTBL_36), [NY_176](https://www.instagram.com/explore/tags/NY_176)
 - **7 May 2026** — 🟡 **Damage**: [PA_1569](https://www.instagram.com/explore/tags/PA_1569), [PA_1570](https://www.instagram.com/explore/tags/PA_1570), [LDN_129](https://www.instagram.com/explore/tags/LDN_129)
