@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Mon, 11 May 2026 22:58:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 14 May 2026 14:23:44 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Thursday, May 14, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-05-14</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-05-14</guid>
+            <pubDate>Thu, 14 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: PA_773</li></ul><p><strong>Original:</strong> <em>Réactivation de PA_773</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Monday, May 11, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-05-11</link>
@@ -378,20 +385,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-02-15</guid>
             <pubDate>Sun, 15 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_800</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_800</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, February 11, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-02-11</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-02-11</guid>
-            <pubDate>Wed, 11 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: PA_513, PA_638, PA_696, PA_697</li></ul><p><strong>Original:</strong> <em>Réactivation de PA_513, PA_638, PA_696 et PA_697</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday, February 10, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-02-10</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-02-10</guid>
-            <pubDate>Tue, 10 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_1391</li></ul><p><strong>Original:</strong> <em>Alerte à propos de PA_1391</em></p>]]></description>
         </item>
     </channel>
 </rss>
