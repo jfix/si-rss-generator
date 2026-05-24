@@ -4,6 +4,7 @@
 
 ### May
 
+- **24 May 2026** — 🔴 **Destruction**: [BTA_11](https://www.instagram.com/explore/tags/BTA_11), [PA_762](https://www.instagram.com/explore/tags/PA_762)
 - **23 May 2026** — 🟢 **New**: [PA_1571](https://www.instagram.com/explore/tags/PA_1571), [PA_1572](https://www.instagram.com/explore/tags/PA_1572), [PA_1573](https://www.instagram.com/explore/tags/PA_1573), [PA_1574](https://www.instagram.com/explore/tags/PA_1574), [PA_1575](https://www.instagram.com/explore/tags/PA_1575)
 - **20 May 2026** — 🟡 **Damage**: [PA_1099](https://www.instagram.com/explore/tags/PA_1099)
 - **19 May 2026** — 🟡 **Damage**: [PA_247](https://www.instagram.com/explore/tags/PA_247)
