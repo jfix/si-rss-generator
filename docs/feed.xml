@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 24 May 2026 15:07:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 May 2026 04:11:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Monday, May 25, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-05-25</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-05-25</guid>
+            <pubDate>Mon, 25 May 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: PA_1590</li></ul><p><strong>Original:</strong> <em>Ajout du dernier SI parisien: PA_1590</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Sunday, May 24, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-05-24</link>
@@ -378,13 +385,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-02-25</guid>
             <pubDate>Wed, 25 Feb 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: CAZ_10</li></ul><p><strong>Original:</strong> <em>Réactivation de CAZ_10</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monday, February 23, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-02-23</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-02-23</guid>
-            <pubDate>Mon, 23 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: ROM_47</li></ul><p><strong>Original:</strong> <em>Destruction de ROM_47</em></p>]]></description>
         </item>
     </channel>
 </rss>
