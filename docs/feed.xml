@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Fri, 29 May 2026 23:17:12 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 01 Jun 2026 11:42:35 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Monday, June 1, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-06-01</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-06-01</guid>
+            <pubDate>Mon, 01 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: BAB_13</li></ul><p><strong>Original:</strong> <em>Réactivation de BAB_13</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Friday, May 29, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-05-29</link>
@@ -378,13 +385,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-03-04</guid>
             <pubDate>Wed, 04 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: BAB_06</li></ul><p><strong>Original:</strong> <em>Dégradation de BAB_06</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, February 28, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-02-28</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-02-28</guid>
-            <pubDate>Sat, 28 Feb 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: NY_176</li></ul><p><strong>Original:</strong> <em>Dégradation de NY_176</em></p>]]></description>
         </item>
     </channel>
 </rss>
