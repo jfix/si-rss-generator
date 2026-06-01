@@ -4,7 +4,7 @@
 
 ### June
 
-- **1 June 2026** — 🟢 **Reactivated**: [BAB_13](https://www.instagram.com/explore/tags/BAB_13)
+- **1 June 2026** — 🔴 **Destruction**: [BAB_13](https://www.instagram.com/explore/tags/BAB_13), [PA_526](https://www.instagram.com/explore/tags/PA_526)
 
 ### May
 
