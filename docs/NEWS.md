@@ -4,6 +4,7 @@
 
 ### June
 
+- **5 June 2026** — 🔴 **Destruction**: [MUN_15](https://www.instagram.com/explore/tags/MUN_15), [PA_949](https://www.instagram.com/explore/tags/PA_949), [HK_95](https://www.instagram.com/explore/tags/HK_95)
 - **3 June 2026** — ⚪ **Unknown**: [AIX_07](https://www.instagram.com/explore/tags/AIX_07)
 - **2 June 2026** — ⚪ **Unknown**: [PA_1523](https://www.instagram.com/explore/tags/PA_1523)
 - **1 June 2026** — 🔴 **Destruction**: [BAB_13](https://www.instagram.com/explore/tags/BAB_13), [PA_526](https://www.instagram.com/explore/tags/PA_526)
