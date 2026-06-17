@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Tue, 16 Jun 2026 20:55:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 17 Jun 2026 15:42:40 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Wednesday, June 17, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-06-17</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-06-17</guid>
+            <pubDate>Wed, 17 Jun 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_262</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_262</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Tuesday, June 16, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-06-16</link>
@@ -385,13 +392,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-03-19</guid>
             <pubDate>Thu, 19 Mar 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: PA_1560, PA_1561</li></ul><p><strong>Original:</strong> <em>Ajout des deux derniers SI parisiens: PA_1560 et PA_1561</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, March 18, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-03-18</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-03-18</guid>
-            <pubDate>Wed, 18 Mar 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: LDN_178</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de LDN_178</em></p>]]></description>
         </item>
     </channel>
 </rss>
