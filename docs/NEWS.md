@@ -4,6 +4,7 @@
 
 ### June
 
+- **27 June 2026** — 🟡 **Damage**: [LDN_179](https://www.instagram.com/explore/tags/LDN_179)
 - **21 June 2026** — 🟡 **Damage**: [PA_1037](https://www.instagram.com/explore/tags/PA_1037)
 - **19 June 2026** — 🔴 **Destruction**: [PA_952](https://www.instagram.com/explore/tags/PA_952), [PA_254](https://www.instagram.com/explore/tags/PA_254)
 - **18 June 2026** — 🟢 **New**: [PA_1594](https://www.instagram.com/explore/tags/PA_1594)
