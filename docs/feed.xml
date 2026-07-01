@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 28 Jun 2026 21:05:53 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 01 Jul 2026 09:55:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Wednesday, July 1, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-07-01</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-07-01</guid>
+            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_49</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_49</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Sunday, June 28, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-06-28</link>
@@ -378,13 +385,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-04-04</guid>
             <pubDate>Sat, 04 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_213, LA_105</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_213. Destruction de LA_105</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, April 1, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-01</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-01</guid>
-            <pubDate>Wed, 01 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: PA_1562, PA_1563, PA_1564, PA_1565, PA_1566, PA_1567, PA_1568</li></ul><p><strong>Original:</strong> <em>Ajout des sept derniers SI parisiens: PA_1562, PA_1563, PA_1564, PA_1565, PA_1566, PA_1567 et PA_1568</em></p>]]></description>
         </item>
     </channel>
 </rss>

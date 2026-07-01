@@ -2,6 +2,10 @@
 
 ## 2026
 
+### July
+
+- **1 July 2026** — 🔴 **Destruction**: [BGK_49](https://www.instagram.com/explore/tags/BGK_49)
+
 ### June
 
 - **28 June 2026** — 🟡 **Damage**: [GNV_08](https://www.instagram.com/explore/tags/GNV_08)
