@@ -4,6 +4,7 @@
 
 ### July
 
+- **6 July 2026** — 🟡 **Damage**: [PA_563](https://www.instagram.com/explore/tags/PA_563)
 - **3 July 2026** — 🟢 **New**: [PA_1595](https://www.instagram.com/explore/tags/PA_1595)
 - **2 July 2026** — 🟢 **New**: [PA_1596](https://www.instagram.com/explore/tags/PA_1596), [PA_1597](https://www.instagram.com/explore/tags/PA_1597)
 - **1 July 2026** — 🔴 **Destruction**: [BGK_49](https://www.instagram.com/explore/tags/BGK_49)
