@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Mon, 06 Jul 2026 23:11:17 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 07 Jul 2026 23:04:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Tuesday, July 7, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-07-07</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-07-07</guid>
+            <pubDate>Tue, 07 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: FTBL_23, GNV_13</li></ul><p><strong>Original:</strong> <em>Dégradation de FTBL_23 et GNV_13</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Monday, July 6, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-07-06</link>
@@ -392,13 +399,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-04-09</guid>
             <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: BAB_42, PA_1265</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de BAB_42 et PA_1265</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday, April 7, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-07</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-07</guid>
-            <pubDate>Tue, 07 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: MLB_22</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de MLB_22</em></p>]]></description>
         </item>
     </channel>
 </rss>
