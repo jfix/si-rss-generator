@@ -4,6 +4,7 @@
 
 ### July
 
+- **8 July 2026** — 🔴 **Destruction**: [DJBA_44](https://www.instagram.com/explore/tags/DJBA_44), [LDN_177](https://www.instagram.com/explore/tags/LDN_177)
 - **7 July 2026** — 🟡 **Damage**: [FTBL_23](https://www.instagram.com/explore/tags/FTBL_23), [GNV_13](https://www.instagram.com/explore/tags/GNV_13)
 - **6 July 2026** — 🟡 **Damage**: [PA_563](https://www.instagram.com/explore/tags/PA_563)
 - **3 July 2026** — 🟢 **New**: [PA_1595](https://www.instagram.com/explore/tags/PA_1595)
