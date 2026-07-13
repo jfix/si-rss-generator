@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 08 Jul 2026 14:22:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Jul 2026 19:39:57 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Monday, July 13, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-07-13</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-07-13</guid>
+            <pubDate>Mon, 13 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LDN_21, PA_179, WN_54</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de LDN_21. Dégradation de PA_179. Alerte à propos de WN_54</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Wednesday, July 8, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-07-08</link>
@@ -385,27 +392,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-04-14</guid>
             <pubDate>Tue, 14 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_1099, FTBL_46</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_1099. Dégradation de FTBL_46</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, April 12, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-12</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-12</guid>
-            <pubDate>Sun, 12 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BRN_21, BRN_05, REUN_03, BRN_01, LDN_68</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de BRN_21. Dégradation de BRN_05, REUN_03 et BRN_01. Destruction de LDN_68</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Friday, April 10, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-10</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-10</guid>
-            <pubDate>Fri, 10 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LDN_181</li></ul><p><strong>Original:</strong> <em>Destruction de LDN_181</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thursday, April 9, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-09</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-09</guid>
-            <pubDate>Thu, 09 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: BAB_42, PA_1265</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de BAB_42 et PA_1265</em></p>]]></description>
         </item>
     </channel>
 </rss>
