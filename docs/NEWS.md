@@ -4,6 +4,7 @@
 
 ### July
 
+- **22 July 2026** — 🔴 **Destruction**: [PA_497](https://www.instagram.com/explore/tags/PA_497)
 - **21 July 2026** — ⚪ **Unknown**: [PA_952](https://www.instagram.com/explore/tags/PA_952)
 - **20 July 2026** — ⚪ **Unknown**: [LDN_14](https://www.instagram.com/explore/tags/LDN_14)
 - **18 July 2026** — 🟢 **Reactivated**: [GNV_02](https://www.instagram.com/explore/tags/GNV_02), [GNV_07](https://www.instagram.com/explore/tags/GNV_07), [GNV_14](https://www.instagram.com/explore/tags/GNV_14), [GNV_15](https://www.instagram.com/explore/tags/GNV_15), [GNV_31](https://www.instagram.com/explore/tags/GNV_31), [GNV_32](https://www.instagram.com/explore/tags/GNV_32), [PA_1397](https://www.instagram.com/explore/tags/PA_1397)
