@@ -4,6 +4,7 @@
 
 ### July
 
+- **23 July 2026** — 🔴 **Destruction**: [LJU_19](https://www.instagram.com/explore/tags/LJU_19)
 - **22 July 2026** — 🔴 **Destruction**: [PA_497](https://www.instagram.com/explore/tags/PA_497)
 - **21 July 2026** — ⚪ **Unknown**: [PA_952](https://www.instagram.com/explore/tags/PA_952)
 - **20 July 2026** — ⚪ **Unknown**: [LDN_14](https://www.instagram.com/explore/tags/LDN_14)
