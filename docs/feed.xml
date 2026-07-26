@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Thu, 23 Jul 2026 14:09:15 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Jul 2026 19:16:29 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, July 26, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-07-26</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-07-26</guid>
+            <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: ROM_06</li></ul><p><strong>Original:</strong> <em>Destruction de ROM_06</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Thursday, July 23, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-07-23</link>
@@ -364,27 +371,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-04-28</guid>
             <pubDate>Tue, 28 Apr 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: GNV_01, GNV_04, GNV_11, GNV_12, GNV_24, GNV_29, GNV_23</li></ul><p><strong>Original:</strong> <em>Réactivation de GNV_01, GNV_04, GNV_11, GNV_12, GNV_24 et GNV_29. Restauration de GNV_23.</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, April 26, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-26</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-26</guid>
-            <pubDate>Sun, 26 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: FTBL_06, BAB_06</li></ul><p><strong>Original:</strong> <em>Dégradation de FTBL_06. Destruction de BAB_06</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, April 25, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-25</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-25</guid>
-            <pubDate>Sat, 25 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: BRL_09</li></ul><p><strong>Original:</strong> <em>Réactivation de BRL_09</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Friday, April 24, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-04-24</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-04-24</guid>
-            <pubDate>Fri, 24 Apr 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: GNV_08, AIX_07, LSN_16</li></ul><p><strong>Original:</strong> <em>Restauration de GNV_08. Mise à jour du statut de AIX_07 et LSN_16</em></p>]]></description>
         </item>
     </channel>
 </rss>
