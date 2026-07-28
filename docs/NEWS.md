@@ -4,6 +4,7 @@
 
 ### July
 
+- **28 July 2026** — ⚪ **Unknown**: [PA_860](https://www.instagram.com/explore/tags/PA_860)
 - **27 July 2026** — 🟡 **Damage**: [GNV_23](https://www.instagram.com/explore/tags/GNV_23)
 - **26 July 2026** — 🔴 **Destruction**: [PA_299](https://www.instagram.com/explore/tags/PA_299), [ROM_06](https://www.instagram.com/explore/tags/ROM_06)
 - **23 July 2026** — 🔴 **Destruction**: [LJU_19](https://www.instagram.com/explore/tags/LJU_19)
