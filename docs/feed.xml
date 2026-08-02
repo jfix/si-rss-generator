@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Thu, 30 Jul 2026 14:09:46 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Aug 2026 19:15:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, August 2, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-08-02</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-08-02</guid>
+            <pubDate>Sun, 02 Aug 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: BGK_11</li></ul><p><strong>Original:</strong> <em>Dégradation de BGK_11</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Thursday, July 30, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-07-30</link>
@@ -364,13 +371,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-05-04</guid>
             <pubDate>Mon, 04 May 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LDN_178, MLB_19</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de LDN_178. Destruction de MLB_19</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, May 3, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-05-03</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-05-03</guid>
-            <pubDate>Sun, 03 May 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1223</li></ul><p><strong>Original:</strong> <em>Destruction de PA_1223</em></p>]]></description>
         </item>
     </channel>
 </rss>
