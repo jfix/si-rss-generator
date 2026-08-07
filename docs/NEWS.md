@@ -4,6 +4,7 @@
 
 ### August
 
+- **7 August 2026** — 🟡 **Damage**: [TK_127](https://www.instagram.com/explore/tags/TK_127)
 - **6 August 2026** — 🟡 **Damage**: [LSN_08](https://www.instagram.com/explore/tags/LSN_08)
 - **5 August 2026** — 🔴 **Destruction**: [LDN_91](https://www.instagram.com/explore/tags/LDN_91)
 - **2 August 2026** — 🟡 **Damage**: [BGK_11](https://www.instagram.com/explore/tags/BGK_11)
