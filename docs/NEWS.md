@@ -4,6 +4,7 @@
 
 ### August
 
+- **12 August 2026** — 🟢 **Reactivated**: [PA_572](https://www.instagram.com/explore/tags/PA_572)
 - **10 August 2026** — 🔴 **Destruction**: [FTBL_16](https://www.instagram.com/explore/tags/FTBL_16), [HK_54](https://www.instagram.com/explore/tags/HK_54)
 - **7 August 2026** — 🟡 **Damage**: [TK_127](https://www.instagram.com/explore/tags/TK_127)
 - **6 August 2026** — 🟡 **Damage**: [LSN_08](https://www.instagram.com/explore/tags/LSN_08)
