@@ -4,6 +4,7 @@
 
 ### August
 
+- **20 August 2026** — 🔴 **Destruction**: [BTA_27](https://www.instagram.com/explore/tags/BTA_27)
 - **19 August 2026** — 🔴 **Destruction**: [PA_683](https://www.instagram.com/explore/tags/PA_683)
 - **18 August 2026** — 🟡 **Damage**: [PA_431](https://www.instagram.com/explore/tags/PA_431)
 - **15 August 2026** — 🔴 **Destruction**: [TK_28](https://www.instagram.com/explore/tags/TK_28)
