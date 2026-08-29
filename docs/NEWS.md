@@ -11,6 +11,7 @@
 - **19 August 2026** — 🔴 **Destruction**: [PA_683](https://www.instagram.com/explore/tags/PA_683)
 - **18 August 2026** — 🟡 **Damage**: [PA_431](https://www.instagram.com/explore/tags/PA_431)
 - **15 August 2026** — 🔴 **Destruction**: [TK_28](https://www.instagram.com/explore/tags/TK_28)
+- **14 August 2026** — ⚪ **Unknown**: [BAB_54](https://www.instagram.com/explore/tags/BAB_54)
 - **12 August 2026** — 🟢 **Reactivated**: [PA_572](https://www.instagram.com/explore/tags/PA_572)
 - **10 August 2026** — 🔴 **Destruction**: [FTBL_16](https://www.instagram.com/explore/tags/FTBL_16), [HK_54](https://www.instagram.com/explore/tags/HK_54)
 - **7 August 2026** — 🟡 **Damage**: [TK_127](https://www.instagram.com/explore/tags/TK_127)
