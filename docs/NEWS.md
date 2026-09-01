@@ -4,7 +4,7 @@
 
 ### September
 
-- **1 September 2026** — 🟢 **Reactivated**: [PA_1346](https://www.instagram.com/explore/tags/PA_1346)
+- **1 September 2026** — 🟡 **Damage**: [PA_1346](https://www.instagram.com/explore/tags/PA_1346), [BAB_13](https://www.instagram.com/explore/tags/BAB_13)
 
 ### August
 
