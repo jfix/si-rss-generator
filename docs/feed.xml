@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Tue, 01 Sep 2026 20:46:59 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 06 Sep 2026 16:46:17 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, September 6, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-09-06</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-09-06</guid>
+            <pubDate>Sun, 06 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_1288</li></ul><p><strong>Original:</strong> <em>Destruction de PA_1288</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Tuesday, September 1, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-09-01</link>
@@ -322,34 +329,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-06-08</guid>
             <pubDate>Mon, 08 Jun 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_1318</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_1318</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, June 7, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-06-07</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-06-07</guid>
-            <pubDate>Sun, 07 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: FTBL_17</li></ul><p><strong>Original:</strong> <em>Destruction de FTBL_17</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, June 6, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-06-06</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-06-06</guid>
-            <pubDate>Sat, 06 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: BRC_12</li></ul><p><strong>Original:</strong> <em>Réactivation de BRC_12</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Friday, June 5, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-06-05</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-06-05</guid>
-            <pubDate>Fri, 05 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: MUN_15, PA_949, HK_95</li></ul><p><strong>Original:</strong> <em>Dégradation de MUN_15 et PA_949. Destruction de HK_95</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, June 3, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-06-03</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-06-03</guid>
-            <pubDate>Wed, 03 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: AIX_07</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de AIX_07</em></p>]]></description>
         </item>
     </channel>
 </rss>
