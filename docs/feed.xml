@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Fri, 11 Sep 2026 19:02:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Sep 2026 20:21:50 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Saturday, September 12, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-09-12</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-09-12</guid>
+            <pubDate>Sat, 12 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: STK_11, STK_12, STK_15</li></ul><p><strong>Original:</strong> <em>Ajout des SI manquants (déjà détruits) de l&#039;invasion de Stockholm: STK_11, STK_12 et STK_15</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Friday, September 11, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-09-11</link>
