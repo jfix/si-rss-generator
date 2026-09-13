@@ -4,6 +4,7 @@
 
 ### September
 
+- **13 September 2026** — 🔴 **Destruction**: [NY_173](https://www.instagram.com/explore/tags/NY_173)
 - **12 September 2026** — 🟢 **New**: [STK_11](https://www.instagram.com/explore/tags/STK_11), [STK_12](https://www.instagram.com/explore/tags/STK_12), [STK_15](https://www.instagram.com/explore/tags/STK_15)
 - **11 September 2026** — 🟢 **New**: [STK_01](https://www.instagram.com/explore/tags/STK_01), [STK_02](https://www.instagram.com/explore/tags/STK_02), [STK_03](https://www.instagram.com/explore/tags/STK_03), [STK_04](https://www.instagram.com/explore/tags/STK_04), [STK_05](https://www.instagram.com/explore/tags/STK_05), [STK_06](https://www.instagram.com/explore/tags/STK_06)
 - **10 September 2026** — ⚪ **Unknown**: [PA_845](https://www.instagram.com/explore/tags/PA_845)
