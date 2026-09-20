@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sat, 19 Sep 2026 15:38:05 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Sep 2026 15:43:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, September 20, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-09-20</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-09-20</guid>
+            <pubDate>Sun, 20 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_262</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_262</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Saturday, September 19, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-09-19</link>
@@ -315,13 +322,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-06-27</guid>
             <pubDate>Sat, 27 Jun 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LDN_179, PA_299, HK_88, PA_116</li></ul><p><strong>Original:</strong> <em>Dégradation de LDN_179 et PA_299. Destruction de HK_88 et PA_116</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, June 21, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-06-21</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-06-21</guid>
-            <pubDate>Sun, 21 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_1037</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_1037</em></p>]]></description>
         </item>
     </channel>
 </rss>
