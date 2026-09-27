@@ -4,6 +4,7 @@
 
 ### September
 
+- **26 September 2026** — ⚪ **Unknown**: [PA_1324](https://www.instagram.com/explore/tags/PA_1324)
 - **24 September 2026** — ⚪ **Unknown**: [AMS_02](https://www.instagram.com/explore/tags/AMS_02)
 - **23 September 2026** — 🔴 **Destruction**: [PA_516](https://www.instagram.com/explore/tags/PA_516)
 - **20 September 2026** — 🟡 **Damage**: [PA_262](https://www.instagram.com/explore/tags/PA_262)
