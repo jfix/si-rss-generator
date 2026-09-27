@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 27 Sep 2026 00:21:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Sep 2026 18:08:14 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, September 27, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-09-27</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-09-27</guid>
+            <pubDate>Sun, 27 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: PA_207, PA_267, PA_692</li></ul><p><strong>Original:</strong> <em>Réactivation de PA_207, PA_267 et PA_692</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Saturday, September 26, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-09-26</link>
@@ -329,13 +336,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-01</guid>
             <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_49</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_49</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, June 28, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-06-28</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-06-28</guid>
-            <pubDate>Sun, 28 Jun 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: GNV_08</li></ul><p><strong>Original:</strong> <em>Dégradation de GNV_08</em></p>]]></description>
         </item>
     </channel>
 </rss>
