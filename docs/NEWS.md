@@ -4,6 +4,7 @@
 
 ### September
 
+- **28 September 2026** — 🔴 **Destruction**: [MAN_08](https://www.instagram.com/explore/tags/MAN_08), [RTD_14](https://www.instagram.com/explore/tags/RTD_14)
 - **27 September 2026** — 🟢 **Reactivated**: [PA_207](https://www.instagram.com/explore/tags/PA_207), [PA_267](https://www.instagram.com/explore/tags/PA_267), [PA_692](https://www.instagram.com/explore/tags/PA_692)
 - **26 September 2026** — ⚪ **Unknown**: [PA_1324](https://www.instagram.com/explore/tags/PA_1324)
 - **24 September 2026** — ⚪ **Unknown**: [AMS_02](https://www.instagram.com/explore/tags/AMS_02)
