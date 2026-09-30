@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Mon, 28 Sep 2026 20:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Sep 2026 18:55:43 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Wednesday, September 30, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-09-30</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-09-30</guid>
+            <pubDate>Wed, 30 Sep 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: STK_13</li></ul><p><strong>Original:</strong> <em>Destruction de STK_13</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Monday, September 28, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-09-28</link>
@@ -336,13 +343,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-02</guid>
             <pubDate>Thu, 02 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟢 <strong>new</strong>: PA_1596, PA_1597</li></ul><p><strong>Original:</strong> <em>Ajout de deux des trois derniers SI parisiens: PA_1596 et PA_1597</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, July 1, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-07-01</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-07-01</guid>
-            <pubDate>Wed, 01 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_49</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_49</em></p>]]></description>
         </item>
     </channel>
 </rss>
