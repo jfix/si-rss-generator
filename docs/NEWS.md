@@ -4,6 +4,7 @@
 
 ### October
 
+- **5 October 2026** — 🟢 **New**: [LAP_46](https://www.instagram.com/explore/tags/LAP_46), [LAP_48](https://www.instagram.com/explore/tags/LAP_48)
 - **4 October 2026** — ⚪ **Unknown**: [LDN_14](https://www.instagram.com/explore/tags/LDN_14)
 - **3 October 2026** — 🔴 **Destruction**: [PA_239](https://www.instagram.com/explore/tags/PA_239)
 - **2 October 2026** — 🟢 **Reactivated**: [PA_343](https://www.instagram.com/explore/tags/PA_343)
