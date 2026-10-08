@@ -4,7 +4,7 @@
 
 ### October
 
-- **8 October 2026** — 🟢 **New**: [LAP_16](https://www.instagram.com/explore/tags/LAP_16), [LAP_33](https://www.instagram.com/explore/tags/LAP_33), [LAP_34](https://www.instagram.com/explore/tags/LAP_34), [LAP_37](https://www.instagram.com/explore/tags/LAP_37)
+- **8 October 2026** — 🟢 **New**: [LAP_05](https://www.instagram.com/explore/tags/LAP_05), [LAP_16](https://www.instagram.com/explore/tags/LAP_16), [LAP_33](https://www.instagram.com/explore/tags/LAP_33), [LAP_34](https://www.instagram.com/explore/tags/LAP_34), [LAP_37](https://www.instagram.com/explore/tags/LAP_37)
 - **7 October 2026** — 🟢 **New**: [LAP_02](https://www.instagram.com/explore/tags/LAP_02), [LAP_17](https://www.instagram.com/explore/tags/LAP_17), [LAP_21](https://www.instagram.com/explore/tags/LAP_21), [LAP_25](https://www.instagram.com/explore/tags/LAP_25), [LAP_26](https://www.instagram.com/explore/tags/LAP_26), [LAP_28](https://www.instagram.com/explore/tags/LAP_28)
 - **6 October 2026** — 🟢 **New**: [LAP_51](https://www.instagram.com/explore/tags/LAP_51), [LAP_52](https://www.instagram.com/explore/tags/LAP_52), [LAP_55](https://www.instagram.com/explore/tags/LAP_55), [LAP_58](https://www.instagram.com/explore/tags/LAP_58), [LAP_59](https://www.instagram.com/explore/tags/LAP_59), [LAP_65](https://www.instagram.com/explore/tags/LAP_65)
 - **5 October 2026** — 🟢 **New**: [LAP_46](https://www.instagram.com/explore/tags/LAP_46), [LAP_47](https://www.instagram.com/explore/tags/LAP_47), [LAP_48](https://www.instagram.com/explore/tags/LAP_48)
