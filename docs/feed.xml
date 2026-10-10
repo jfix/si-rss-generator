@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sat, 10 Oct 2026 18:18:58 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Oct 2026 23:20:10 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -16,11 +16,18 @@
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
         <item>
+            <title><![CDATA[Sunday, October 11, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-10-11</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-10-11</guid>
+            <pubDate>Sun, 11 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_78</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_78 ...</em></p>]]></description>
+        </item>
+        <item>
             <title><![CDATA[Saturday, October 10, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-10-10</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-10-10</guid>
             <pubDate>Sat, 10 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_49, LAP_50, LAP_56</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_49, LAP_50, LAP_56...</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_49, LAP_50, LAP_53, LAP_56, LAP_57, LAP_76</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_49, LAP_50, LAP_53, LAP_56, LAP_57 et LAP_76</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Friday, October 9, 2026]]></title>
