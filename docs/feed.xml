@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Fri, 16 Oct 2026 22:40:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Oct 2026 23:51:23 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Saturday, October 17, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-10-17</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-10-17</guid>
+            <pubDate>Sat, 17 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_19, LAP_23, LAP_42, LAP_43, LAP_44, LAP_45</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_19, LAP_23, LAP_42, LAP_43, LAP_44 et LAP_45</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Friday, October 16, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-10-16</link>
@@ -392,13 +399,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-20</guid>
             <pubDate>Mon, 20 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: LDN_14</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de LDN_14</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Saturday, July 18, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-07-18</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-07-18</guid>
-            <pubDate>Sat, 18 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>reactivated</strong>: GNV_02, GNV_07, GNV_14, GNV_15, GNV_31, GNV_32, PA_1397</li></ul><p><strong>Original:</strong> <em>Réactivation de GNV_02, GNV_07, GNV_14, GNV_15, GNV_31 et GNV_32. Mise à jour du statut de PA_1397.</em></p>]]></description>
         </item>
     </channel>
 </rss>
