@@ -4,7 +4,7 @@
 
 ### October
 
-- **18 October 2026** — 🟢 **New**: [LAP_27](https://www.instagram.com/explore/tags/LAP_27), [LAP_71](https://www.instagram.com/explore/tags/LAP_71), [LAP_72](https://www.instagram.com/explore/tags/LAP_72)
+- **18 October 2026** — 🟢 **New**: [LAP_27](https://www.instagram.com/explore/tags/LAP_27), [LAP_71](https://www.instagram.com/explore/tags/LAP_71), [LAP_72](https://www.instagram.com/explore/tags/LAP_72), [PA_845](https://www.instagram.com/explore/tags/PA_845)
 - **17 October 2026** — 🟢 **New**: [LAP_19](https://www.instagram.com/explore/tags/LAP_19), [LAP_23](https://www.instagram.com/explore/tags/LAP_23), [LAP_42](https://www.instagram.com/explore/tags/LAP_42), [LAP_43](https://www.instagram.com/explore/tags/LAP_43), [LAP_44](https://www.instagram.com/explore/tags/LAP_44), [LAP_45](https://www.instagram.com/explore/tags/LAP_45)
 - **16 October 2026** — 🟢 **New**: [LAP_03](https://www.instagram.com/explore/tags/LAP_03), [LAP_04](https://www.instagram.com/explore/tags/LAP_04), [LAP_22](https://www.instagram.com/explore/tags/LAP_22), [LAP_24](https://www.instagram.com/explore/tags/LAP_24), [LAP_31](https://www.instagram.com/explore/tags/LAP_31), [LAP_66](https://www.instagram.com/explore/tags/LAP_66)
 - **15 October 2026** — 🟡 **Damage**: [LAP_14](https://www.instagram.com/explore/tags/LAP_14), [FAO_03](https://www.instagram.com/explore/tags/FAO_03), [NY_163](https://www.instagram.com/explore/tags/NY_163)

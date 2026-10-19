@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 18 Oct 2026 23:59:44 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2026 04:28:51 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -20,7 +20,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-10-18</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-10-18</guid>
             <pubDate>Sun, 18 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_27, LAP_71, LAP_72</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_27, LAP_71 et LAP_72</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_27, LAP_71, LAP_72, PA_845</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_27, LAP_71 et LAP_72. Mise à jour du statut de PA_845</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Saturday, October 17, 2026]]></title>
