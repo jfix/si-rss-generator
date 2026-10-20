@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Tue, 20 Oct 2026 04:08:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Oct 2026 11:09:18 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Tuesday, October 20, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-10-20</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-10-20</guid>
+            <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_09, PA_1397</li></ul><p><strong>Original:</strong> <em>Destruction de LAP_09 et PA_1397</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Monday, October 19, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-10-19</link>
@@ -399,13 +406,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-22</guid>
             <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_497</li></ul><p><strong>Original:</strong> <em>Destruction de PA_497</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday, July 21, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-07-21</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-07-21</guid>
-            <pubDate>Tue, 21 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_952</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_952</em></p>]]></description>
         </item>
     </channel>
 </rss>
