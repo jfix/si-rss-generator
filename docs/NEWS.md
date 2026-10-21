@@ -4,7 +4,7 @@
 
 ### October
 
-- **21 October 2026** — 🟢 **New**: [LAP_35](https://www.instagram.com/explore/tags/LAP_35)
+- **21 October 2026** — 🟢 **New**: [LAP_11](https://www.instagram.com/explore/tags/LAP_11), [LAP_35](https://www.instagram.com/explore/tags/LAP_35)
 - **20 October 2026** — 🔴 **Destruction**: [LAP_79](https://www.instagram.com/explore/tags/LAP_79), [LAP_89](https://www.instagram.com/explore/tags/LAP_89), [LAP_09](https://www.instagram.com/explore/tags/LAP_09), [PA_1397](https://www.instagram.com/explore/tags/PA_1397)
 - **19 October 2026** — 🟡 **Damage**: [BAB_09](https://www.instagram.com/explore/tags/BAB_09)
 - **18 October 2026** — 🟢 **New**: [LAP_27](https://www.instagram.com/explore/tags/LAP_27), [LAP_71](https://www.instagram.com/explore/tags/LAP_71), [LAP_72](https://www.instagram.com/explore/tags/LAP_72), [PA_845](https://www.instagram.com/explore/tags/PA_845)
