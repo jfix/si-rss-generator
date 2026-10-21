@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Tue, 20 Oct 2026 21:23:44 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Oct 2026 13:34:55 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -16,11 +16,18 @@
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
         <item>
+            <title><![CDATA[Wednesday, October 21, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-10-21</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-10-21</guid>
+            <pubDate>Wed, 21 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: LAP_35</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI identifié de l&#039;invasion de la Laponie: LAP_35</em></p>]]></description>
+        </item>
+        <item>
             <title><![CDATA[Tuesday, October 20, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-10-20</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-10-20</guid>
             <pubDate>Tue, 20 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_79, LAP_89, LAP_09, PA_1397</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion de la Laponie: LAP_79, LAP_89... Destruction de LAP_09 et PA_1397</em></p>]]></description>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_79, LAP_89, LAP_09, PA_1397</li></ul><p><strong>Original:</strong> <em>Ajout de 2 SI de l&#039;invasion de la Laponie: LAP_79 et LAP_89. Destruction de LAP_09 et PA_1397</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Monday, October 19, 2026]]></title>
@@ -399,13 +406,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-23</guid>
             <pubDate>Thu, 23 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LJU_19</li></ul><p><strong>Original:</strong> <em>Destruction de LJU_19</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, July 22, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-07-22</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-07-22</guid>
-            <pubDate>Wed, 22 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_497</li></ul><p><strong>Original:</strong> <em>Destruction de PA_497</em></p>]]></description>
         </item>
     </channel>
 </rss>
