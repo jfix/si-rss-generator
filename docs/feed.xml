@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sat, 24 Oct 2026 17:15:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 25 Oct 2026 13:02:56 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Sunday, October 25, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-10-25</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-10-25</guid>
+            <pubDate>Sun, 25 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_75, LAP_88, VRS_01</li></ul><p><strong>Original:</strong> <em>Ajout de 2 SI de l&#039;invasion de la Laponie: LAP_75 et LAP_88. Destruction de VRS_01</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Saturday, October 24, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-10-24</link>
@@ -76,7 +83,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-10-15</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-10-15</guid>
             <pubDate>Thu, 15 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LAP_14, FAO_03, NY_163</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI identifié de l&#039;invasion de la Laponie: LAP_14. Réactivation de FAO_03. Dégradation de NY_163</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LAP_14, FAO_03, NY_163</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI de l&#039;invasion de la Laponie: LAP_14. Réactivation de FAO_03. Dégradation de NY_163</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, October 14, 2026]]></title>
@@ -90,7 +97,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-10-13</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-10-13</guid>
             <pubDate>Tue, 13 Oct 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_77, LAP_05</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI identifié de l&#039;invasion de la Laponie: LAP_77. Destruction de LAP_05</em></p>]]></description>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_77, LAP_05</li></ul><p><strong>Original:</strong> <em>Ajout d&#039;un SI de l&#039;invasion de la Laponie: LAP_77. Destruction de LAP_05</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Sunday, October 11, 2026]]></title>
@@ -406,13 +413,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-27</guid>
             <pubDate>Mon, 27 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: GNV_23</li></ul><p><strong>Original:</strong> <em>Dégradation de GNV_23</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Sunday, July 26, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-07-26</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-07-26</guid>
-            <pubDate>Sun, 26 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: PA_299, ROM_06</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_299. Destruction de ROM_06</em></p>]]></description>
         </item>
     </channel>
 </rss>
