@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Mon, 26 Oct 2026 19:47:09 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Oct 2026 11:49:19 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Tuesday, October 27, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-10-27</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-10-27</guid>
+            <pubDate>Tue, 27 Oct 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_05, PA_179</li></ul><p><strong>Original:</strong> <em>Réactivation de LAP_05. Destruction de PA_179</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Monday, October 26, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-10-26</link>
@@ -406,13 +413,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-07-30</guid>
             <pubDate>Thu, 30 Jul 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BGK_26</li></ul><p><strong>Original:</strong> <em>Destruction de BGK_26</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Tuesday, July 28, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-07-28</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-07-28</guid>
-            <pubDate>Tue, 28 Jul 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>⚪ <strong>unknown</strong>: PA_860</li></ul><p><strong>Original:</strong> <em>Mise à jour du statut de PA_860</em></p>]]></description>
         </item>
     </channel>
 </rss>
