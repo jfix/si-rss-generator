@@ -4,7 +4,7 @@
 
 ### October
 
-- **31 October 2026** — 🟢 **Reactivated**: [PA_154](https://www.instagram.com/explore/tags/PA_154), [PA_963](https://www.instagram.com/explore/tags/PA_963), [PA_1287](https://www.instagram.com/explore/tags/PA_1287)
+- **31 October 2026** — 🔴 **Destruction**: [PA_154](https://www.instagram.com/explore/tags/PA_154), [PA_963](https://www.instagram.com/explore/tags/PA_963), [PA_1287](https://www.instagram.com/explore/tags/PA_1287), [MLB_22](https://www.instagram.com/explore/tags/MLB_22), [PA_1555](https://www.instagram.com/explore/tags/PA_1555)
 - **30 October 2026** — 🔴 **Destruction**: [LAP_38](https://www.instagram.com/explore/tags/LAP_38), [LAP_39](https://www.instagram.com/explore/tags/LAP_39), [STK_18](https://www.instagram.com/explore/tags/STK_18), [STK_19](https://www.instagram.com/explore/tags/STK_19)
 - **29 October 2026** — 🟡 **Damage**: [PA_1555](https://www.instagram.com/explore/tags/PA_1555)
 - **28 October 2026** — 🟢 **New**: [LAP_54](https://www.instagram.com/explore/tags/LAP_54)
