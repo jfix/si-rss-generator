@@ -4,7 +4,7 @@
 
 ### November
 
-- **1 November 2026** — 🔴 **Destruction**: [RTD_07](https://www.instagram.com/explore/tags/RTD_07)
+- **1 November 2026** — 🔴 **Destruction**: [NY_79](https://www.instagram.com/explore/tags/NY_79), [RTD_07](https://www.instagram.com/explore/tags/RTD_07)
 
 ### October
 
