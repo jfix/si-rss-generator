@@ -2,6 +2,10 @@
 
 ## 2026
 
+### November
+
+- **1 November 2026** — 🔴 **Destruction**: [RTD_07](https://www.instagram.com/explore/tags/RTD_07)
+
 ### October
 
 - **31 October 2026** — 🟢 **New**: [LAP_12](https://www.instagram.com/explore/tags/LAP_12), [LAP_70](https://www.instagram.com/explore/tags/LAP_70), [LAP_73](https://www.instagram.com/explore/tags/LAP_73), [LAP_74](https://www.instagram.com/explore/tags/LAP_74)
