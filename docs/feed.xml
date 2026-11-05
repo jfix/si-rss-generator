@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 04 Nov 2026 23:24:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 05 Nov 2026 21:49:42 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Wednesday, November 4, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-11-04</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-11-04</guid>
+            <pubDate>Wed, 04 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LAP_16</li></ul><p><strong>Original:</strong> <em>Destruction de LAP_16</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Tuesday, November 3, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-11-03</link>
@@ -441,13 +448,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-08-06</guid>
             <pubDate>Thu, 06 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: LSN_08</li></ul><p><strong>Original:</strong> <em>Dégradation de LSN_08</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Wednesday, August 5, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-08-05</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-08-05</guid>
-            <pubDate>Wed, 05 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: LDN_91</li></ul><p><strong>Original:</strong> <em>Destruction de LDN_91</em></p>]]></description>
         </item>
     </channel>
 </rss>
