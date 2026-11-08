@@ -4,6 +4,7 @@
 
 ### November
 
+- **8 November 2026** — 🔴 **Destruction**: [PRT_03](https://www.instagram.com/explore/tags/PRT_03), [PRT_04](https://www.instagram.com/explore/tags/PRT_04), [PRT_13](https://www.instagram.com/explore/tags/PRT_13), [PRT_14](https://www.instagram.com/explore/tags/PRT_14), [PRT_19](https://www.instagram.com/explore/tags/PRT_19), [PRT_25](https://www.instagram.com/explore/tags/PRT_25), [PA_1407](https://www.instagram.com/explore/tags/PA_1407)
 - **4 November 2026** — 🔴 **Destruction**: [LAP_16](https://www.instagram.com/explore/tags/LAP_16)
 - **3 November 2026** — ⚪ **Unknown**: [PA_1103](https://www.instagram.com/explore/tags/PA_1103)
 - **2 November 2026** — ⚪ **Unknown**: [PA_1407](https://www.instagram.com/explore/tags/PA_1407)
