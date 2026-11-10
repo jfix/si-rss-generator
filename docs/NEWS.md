@@ -4,7 +4,7 @@
 
 ### November
 
-- **9 November 2026** — 🟢 **Reactivated**: [PA_768](https://www.instagram.com/explore/tags/PA_768), [PA_979](https://www.instagram.com/explore/tags/PA_979), [PA_1288](https://www.instagram.com/explore/tags/PA_1288), [PRT_02](https://www.instagram.com/explore/tags/PRT_02), [PRT_05](https://www.instagram.com/explore/tags/PRT_05), [PRT_07](https://www.instagram.com/explore/tags/PRT_07), [PRT_10](https://www.instagram.com/explore/tags/PRT_10), [PRT_26](https://www.instagram.com/explore/tags/PRT_26)
+- **9 November 2026** — 🟢 **Reactivated**: [PA_768](https://www.instagram.com/explore/tags/PA_768), [PA_979](https://www.instagram.com/explore/tags/PA_979), [PA_1288](https://www.instagram.com/explore/tags/PA_1288), [PRT_02](https://www.instagram.com/explore/tags/PRT_02), [PRT_05](https://www.instagram.com/explore/tags/PRT_05), [PRT_06](https://www.instagram.com/explore/tags/PRT_06), [PRT_07](https://www.instagram.com/explore/tags/PRT_07), [PRT_10](https://www.instagram.com/explore/tags/PRT_10), [PRT_11](https://www.instagram.com/explore/tags/PRT_11)
 - **8 November 2026** — 🔴 **Destruction**: [PRT_03](https://www.instagram.com/explore/tags/PRT_03), [PRT_04](https://www.instagram.com/explore/tags/PRT_04), [PRT_13](https://www.instagram.com/explore/tags/PRT_13), [PRT_14](https://www.instagram.com/explore/tags/PRT_14), [PRT_19](https://www.instagram.com/explore/tags/PRT_19), [PRT_25](https://www.instagram.com/explore/tags/PRT_25), [PA_1407](https://www.instagram.com/explore/tags/PA_1407)
 - **4 November 2026** — 🔴 **Destruction**: [LAP_16](https://www.instagram.com/explore/tags/LAP_16)
 - **3 November 2026** — ⚪ **Unknown**: [PA_1103](https://www.instagram.com/explore/tags/PA_1103)
