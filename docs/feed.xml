@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 11 Nov 2026 05:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Nov 2026 13:49:01 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -20,7 +20,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-11-11</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-11-11</guid>
             <pubDate>Wed, 11 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: MLB_19, MLB_21, MLB_22, KLN_04, KLN_12</li></ul><p><strong>Original:</strong> <em>Réactivation de MLB_19 et MLB_21. Restauration de MLB_22. Dégradation de KLN_04, KLN_12,</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: MLB_04, MLB_19, MLB_21, MLB_22, KLN_04</li></ul><p><strong>Original:</strong> <em>Réactivation de MLB_04, MLB_19 et MLB_21. Restauration de MLB_22. Dégradation de KLN_04,</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Tuesday, November 10, 2026]]></title>
