@@ -2,14 +2,17 @@
 
 /**
  * SI RSS Generator - Main Orchestration Script
- * Runs hourly via GitHub Actions
- * 
+ * Runs every 2 hours via GitHub Actions
+ *
  * Flow:
  * 1. Fetch page HTML
- * 2. Parse news items
- * 3. Generate RSS and Markdown
- * 4. Detect changes
- * 5. Commit if changed
+ * 2. Detect changes
+ * 3. Parse news items
+ * 4. Generate RSS, Markdown and HTML
+ * 5. Cache the fetched HTML
+ *
+ * Committing and pushing the generated files is done by the workflow
+ * (.github/workflows/generate.yml), not by this script.
  */
 
 import { config } from 'dotenv';
@@ -19,7 +22,6 @@ import { parseNews, filterLastNDays } from './parser.js';
 import { hasChanged } from './change-detector.js';
 import { generateRss, saveRss } from './rss-generator.js';
 import { generateMarkdown, saveMarkdown, generateHtml, saveHtml } from './markdown-generator.js';
-import { configureGit, commitAndPush } from './git-handler.js';
 
 // Load environment variables
 config();
@@ -83,27 +85,6 @@ async function main() {
     // Step 7: Cache the HTML
     console.log('\nStep 7: Caching HTML...');
     cacheNews(freshHtml);
-    
-    // Step 8: Commit changes (if running in GitHub Actions)
-    if (IS_GITHUB_ACTIONS) {
-      console.log('\nStep 8: Committing changes...');
-      try {
-        configureGit();
-        const now = new Date();
-        const dateStr = now.toISOString().split('T')[0];
-        const message = `Update Space Invaders news - ${dateStr}`;
-        
-        commitAndPush(
-          ['data/news-cache.html', 'docs/feed.xml', 'docs/NEWS.md', 'docs/index.html'],
-          message
-        );
-      } catch (error) {
-        console.error('Warning: Failed to commit changes:', error);
-        // Don't exit with error - the data files are still generated
-      }
-    } else {
-      console.log('\nStep 8: Skipping git operations (not running in GitHub Actions)');
-    }
     
     console.log('\n✓ All done!');
     process.exit(0);

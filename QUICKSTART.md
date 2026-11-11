@@ -99,12 +99,11 @@ bun run dev
 
 ## ⏰ Automatic Runs
 
-The GitHub Actions workflow runs **hourly at minute 0**:
+The GitHub Actions workflow runs **every 2 hours at minute 0**:
 - Fetches latest news
 - Detects changes
 - Generates feeds
-- Auto-commits if changed
-- Deploys to Pages
+- Auto-commits if changed (GitHub Pages then publishes `docs/` from `main`)
 
 Manual trigger available anytime via Actions tab.
 

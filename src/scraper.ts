@@ -8,31 +8,48 @@ import { resolve } from 'path';
 const CACHE_DIR = resolve('data');
 const CACHE_FILE = resolve(CACHE_DIR, 'news-cache.html');
 
+const NEWS_URL = 'https://www.invader-spotter.art/news.php';
+const FETCH_TIMEOUT_MS = 30_000;
+// Delay before each retry; length = number of retries after the first attempt.
+const RETRY_DELAYS_MS = [5_000, 15_000, 30_000];
+
+async function fetchOnce(): Promise<string> {
+  const response = await fetch(NEWS_URL, {
+    // Bypass HTTP caching to always get fresh content
+    cache: 'no-store',
+    headers: {
+      'Cache-Control': 'no-cache, no-store, must-revalidate',
+      'Pragma': 'no-cache',
+      'Expires': '0'
+    },
+    signal: AbortSignal.timeout(FETCH_TIMEOUT_MS),
+  });
+
+  if (!response.ok) {
+    throw new Error(`Failed to fetch: HTTP ${response.status} ${response.statusText}`.trim());
+  }
+
+  return response.text();
+}
+
 export async function scrapeNews(): Promise<string> {
   console.log('Fetching Space Invaders news page...');
-  
-  try {
-    const response = await fetch('https://www.invader-spotter.art/news.php', {
-      // Bypass HTTP caching to always get fresh content
-      cache: 'no-store',
-      headers: {
-        'Cache-Control': 'no-cache, no-store, must-revalidate',
-        'Pragma': 'no-cache',
-        'Expires': '0'
+
+  for (let attempt = 0; ; attempt++) {
+    try {
+      const html = await fetchOnce();
+      console.log(`✓ Fetched ${html.length} bytes`);
+      return html;
+    } catch (error) {
+      if (attempt >= RETRY_DELAYS_MS.length) {
+        console.error('✗ Error fetching news page:', error);
+        throw error;
       }
-    });
-    
-    if (!response.ok) {
-      throw new Error(`Failed to fetch: ${response.statusText}`);
+      const delay = RETRY_DELAYS_MS[attempt];
+      const reason = error instanceof Error ? error.message : String(error);
+      console.warn(`⚠ Fetch attempt ${attempt + 1} failed (${reason}); retrying in ${delay / 1000}s...`);
+      await new Promise((r) => setTimeout(r, delay));
     }
-    
-    const html = await response.text();
-    console.log(`✓ Fetched ${html.length} bytes`);
-    
-    return html;
-  } catch (error) {
-    console.error('✗ Error fetching news page:', error);
-    throw error;
   }
 }
 

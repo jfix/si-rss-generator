@@ -5,7 +5,7 @@ Convert [Space Invaders news](https://www.invader-spotter.art/news.php) to RSS a
 ## Overview
 
 This project automatically:
-1. **Scrapes** the Space Invaders news page hourly (via GitHub Actions)
+1. **Scrapes** the Space Invaders news page every 2 hours (via GitHub Actions)
 2. **Parses** monthly news sections and daily entries
 3. **Generates** an RSS feed (one entry per day, last 90 days)
 4. **Generates** a Markdown file organized by year/month/day
@@ -24,7 +24,7 @@ This project automatically:
   - ⚪ White: Status Change
 - 🕐 **1-Hour Refresh**: RSS ttl set to 60 minutes
 - 📱 **Responsive HTML**: Beautiful GitHub Pages site with sidebar navigation
-- 🔄 **Automatic Updates**: Runs hourly, commits only when changes detected
+- 🔄 **Automatic Updates**: Runs every 2 hours, commits only when changes detected
 - 🇫🇷 **French Support**: Parses French keywords and stores original content
 - 🌐 **GitHub Pages**: Published automatically to `github.io`
 
@@ -38,7 +38,6 @@ src/
   ├── change-detector.ts    # Detect HTML changes
   ├── rss-generator.ts      # Generate RSS feed
   ├── markdown-generator.ts # Generate Markdown & HTML
-  ├── git-handler.ts        # Git operations
   └── index.ts              # Main orchestration
 
 data/
@@ -115,10 +114,10 @@ Compares the newly fetched HTML with the cached version using a hash function. I
 
 ### Publishing
 GitHub Actions automatically:
-1. Runs the generation script hourly
+1. Runs the generation script every 2 hours
 2. Detects changes by comparing `data/` and `docs/` folders
 3. Commits and pushes if changes detected
-4. Deploys `docs/` folder to GitHub Pages
+4. GitHub Pages (source: `main` branch, `/docs` folder) republishes the site from that commit
 
 ## Environment Variables
 
@@ -161,16 +160,15 @@ Optional (defaults provided):
 
 The workflow (`generate.yml`) runs:
 
-1. **Hourly** at minute 0 (cron: `0 * * * *`)
+1. **Every 2 hours** at minute 0 (cron: `0 */2 * * *`)
 2. **On-demand** via manual workflow trigger
-3. Checks out code, installs dependencies, runs generation
-4. Commits changes (if any) to `main` branch
-5. Deploys `docs/` folder to GitHub Pages
+3. Checks out code, installs dependencies (pinned Bun, frozen lockfile), runs generation
+4. Commits changes (if any) to `main` branch; GitHub Pages then publishes `docs/` from `main`
 
-**Permissions**: 
+Runs never overlap (`concurrency: generate`).
+
+**Permissions**:
 - `contents: write` - Commit changes
-- `pages: write` - Deploy to GitHub Pages
-- `id-token: write` - GitHub Pages authentication
 
 ## RSS Feed Details
 
