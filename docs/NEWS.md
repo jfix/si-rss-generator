@@ -4,7 +4,7 @@
 
 ### November
 
-- **13 November 2026** — 🟢 **New**: [LAP_40](https://www.instagram.com/explore/tags/LAP_40)
+- **13 November 2026** — 🟢 **New**: [LAP_40](https://www.instagram.com/explore/tags/LAP_40), [MLB_17](https://www.instagram.com/explore/tags/MLB_17), [PRT_08](https://www.instagram.com/explore/tags/PRT_08)
 - **12 November 2026** — 🟢 **New**: [LAP_13](https://www.instagram.com/explore/tags/LAP_13), [LAP_41](https://www.instagram.com/explore/tags/LAP_41), [MLB_01](https://www.instagram.com/explore/tags/MLB_01), [MLB_09](https://www.instagram.com/explore/tags/MLB_09)
 - **11 November 2026** — 🟢 **Reactivated**: [MLB_04](https://www.instagram.com/explore/tags/MLB_04), [MLB_19](https://www.instagram.com/explore/tags/MLB_19), [MLB_21](https://www.instagram.com/explore/tags/MLB_21), [MLB_22](https://www.instagram.com/explore/tags/MLB_22)
 - **10 November 2026** — 🔴 **Destruction**: [PA_1222](https://www.instagram.com/explore/tags/PA_1222), [LDN_121](https://www.instagram.com/explore/tags/LDN_121), [MIA_81](https://www.instagram.com/explore/tags/MIA_81), [PA_59](https://www.instagram.com/explore/tags/PA_59)
