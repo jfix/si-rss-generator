@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Thu, 19 Nov 2026 02:59:12 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 12:37:46 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -20,7 +20,7 @@
             <link>https://jfix.github.io/si-rss-generator/#2026-11-19</link>
             <guid>https://jfix.github.io/si-rss-generator#2026-11-19</guid>
             <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: BDA_01, BDA_21, BDA_22, BDA_25</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion des Bermudes: BDA_01, BDA_21, BDA_22 et BDA_25</em></p>]]></description>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: BDA_01, BDA_21, BDA_22, BDA_25</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion des Bermudes: BDA_01, BDA_21, BDA_22 et BDA_25.</em></p>]]></description>
         </item>
         <item>
             <title><![CDATA[Wednesday, November 18, 2026]]></title>
