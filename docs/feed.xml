@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Wed, 18 Nov 2026 21:44:11 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Nov 2026 02:59:12 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Thursday, November 19, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-11-19</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-11-19</guid>
+            <pubDate>Thu, 19 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🟢 <strong>new</strong>: BDA_01, BDA_21, BDA_22, BDA_25</li></ul><p><strong>Original:</strong> <em>Ajout de plusieurs SI de l&#039;invasion des Bermudes: BDA_01, BDA_21, BDA_22 et BDA_25</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Wednesday, November 18, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-11-18</link>
@@ -448,13 +455,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-08-24</guid>
             <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: WN_11, NY_29</li></ul><p><strong>Original:</strong> <em>Dégradation de WN_11. Destruction de NY_29</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Thursday, August 20, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-08-20</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-08-20</guid>
-            <pubDate>Thu, 20 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: BTA_27</li></ul><p><strong>Original:</strong> <em>Destruction de BTA_27</em></p>]]></description>
         </item>
     </channel>
 </rss>

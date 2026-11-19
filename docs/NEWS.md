@@ -4,6 +4,7 @@
 
 ### November
 
+- **19 November 2026** — 🟢 **New**: [BDA_01](https://www.instagram.com/explore/tags/BDA_01), [BDA_21](https://www.instagram.com/explore/tags/BDA_21), [BDA_22](https://www.instagram.com/explore/tags/BDA_22), [BDA_25](https://www.instagram.com/explore/tags/BDA_25)
 - **18 November 2026** — 🟢 **New**: [BDA_02](https://www.instagram.com/explore/tags/BDA_02), [BDA_03](https://www.instagram.com/explore/tags/BDA_03), [BDA_05](https://www.instagram.com/explore/tags/BDA_05), [BDA_07](https://www.instagram.com/explore/tags/BDA_07)
 - **17 November 2026** — 🟢 **Reactivated**: [BGK_03](https://www.instagram.com/explore/tags/BGK_03), [BGK_16](https://www.instagram.com/explore/tags/BGK_16), [BGK_21](https://www.instagram.com/explore/tags/BGK_21), [BGK_33](https://www.instagram.com/explore/tags/BGK_33), [BGK_45](https://www.instagram.com/explore/tags/BGK_45)
 - **14 November 2026** — 🟢 **New**: [LAP_36](https://www.instagram.com/explore/tags/LAP_36)
