@@ -4,7 +4,7 @@
         <title>Space Invaders News</title>
         <link>https://jfix.github.io/si-rss-generator</link>
         <description>Latest updates on Space Invaders creations, destructions, and damage. Data sourced from invader-spotter.art - a community project tracking Space Invaders worldwide.</description>
-        <lastBuildDate>Sun, 22 Nov 2026 17:40:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Nov 2026 19:57:37 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>SI RSS Generator</generator>
         <language>en</language>
@@ -15,6 +15,13 @@
             <link>https://jfix.github.io/si-rss-generator</link>
         </image>
         <copyright>Data from invader-spotter.art - SI RSS Generator</copyright>
+        <item>
+            <title><![CDATA[Monday, November 23, 2026]]></title>
+            <link>https://jfix.github.io/si-rss-generator/#2026-11-23</link>
+            <guid>https://jfix.github.io/si-rss-generator#2026-11-23</guid>
+            <pubDate>Mon, 23 Nov 2026 00:00:00 GMT</pubDate>
+            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: MLB_17, PRT_12, PRT_19</li></ul><p><strong>Original:</strong> <em>Destruction de MLB_17, PRT_12 et PRT_19</em></p>]]></description>
+        </item>
         <item>
             <title><![CDATA[Sunday, November 22, 2026]]></title>
             <link>https://jfix.github.io/si-rss-generator/#2026-11-22</link>
@@ -469,13 +476,6 @@
             <guid>https://jfix.github.io/si-rss-generator#2026-08-28</guid>
             <pubDate>Fri, 28 Aug 2026 00:00:00 GMT</pubDate>
             <description><![CDATA[<ul><li>🟡 <strong>damage</strong>: PA_296</li></ul><p><strong>Original:</strong> <em>Dégradation de PA_296</em></p>]]></description>
-        </item>
-        <item>
-            <title><![CDATA[Monday, August 24, 2026]]></title>
-            <link>https://jfix.github.io/si-rss-generator/#2026-08-24</link>
-            <guid>https://jfix.github.io/si-rss-generator#2026-08-24</guid>
-            <pubDate>Mon, 24 Aug 2026 00:00:00 GMT</pubDate>
-            <description><![CDATA[<ul><li>🔴 <strong>destruction</strong>: WN_11, NY_29</li></ul><p><strong>Original:</strong> <em>Dégradation de WN_11. Destruction de NY_29</em></p>]]></description>
         </item>
     </channel>
 </rss>
